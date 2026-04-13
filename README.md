@@ -148,31 +148,31 @@ Project Atlas is built with **military decision-support standards** in mind. Eve
 
 Project Atlas evolved through 5 research milestones:
 
-### **Milestone A: Foundation (Aug 2025)**
+### **Milestone A: Foundation**
 - Core financial calculator engine
 - Tricare, VA Health, and ACA healthcare modeling
 - Tax-aware retirement calculations
 - Streamlit dashboard with cash flow visualization
 
-### **Milestone B: Data Science Baseline (Oct 2025)**
+### **Milestone B: Data Science Baseline**
 - 3-fold cross-validation framework
 - ROUGE-L baseline metrics for Q&A accuracy
 - LIME/SHAP explainability infrastructure
 - Synthetic scenario generation (521 profiles)
 
-### **Milestone C: Bias Audit & Amplification (Dec 2025)**
+### **Milestone C: Bias Audit & Amplification**
 - Demographic fairness audit across income, housing, survivor benefits
 - Amplified weak categories (housing, benefits) by 3x
 - Achieved 54% improvement in housing cost predictions
 - Expanded to 556 Q&A pairs + 561 military knowledge base
 
-### **Milestone D: Ethical Reflection & Governance (Feb 2026)**
+### **Milestone D: Ethical Reflection & Governance**
 - Documented governance framework and bias mitigation
 - Analyzed regulatory compliance (HIPAA, FINRA)
 - Achieved 67%±8% consistency on What-If scenarios
 - Published ethical reflection on deployment trade-offs
 
-### **Milestone E: RAG Optimization & Production Hardening ⭐ (Apr 2026)**
+### **Milestone E: RAG Optimization & Production Hardening ⭐**
 - **Implemented Retrieval-Augmented Generation (RAG)** with FAISS vector DB
 - Enhanced answer quality with confidence-scored routing
 - Optimized hyperparameters (k=1 retrieval, top-3 re-ranking)
