@@ -1,0 +1,10 @@
+{
+  "created": "2026-04-04T08:18:14.819342",
+  "ntotal": 561,
+  "dimension": 384,
+  "metric_type": "L2 (cosine similarity)",
+  "kb_pairs": 561,
+  "categories": 16,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimension": 384
+}

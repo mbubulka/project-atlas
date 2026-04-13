@@ -1,0 +1,2245 @@
+{
+  "overall_accuracy": 29.58,
+  "total_scenarios": 240,
+  "passed": 71,
+  "failed": 169,
+  "by_rank": {
+    "E-4": {
+      "total": 30,
+      "passed": 12,
+      "failed": 18,
+      "accuracy": 40.0,
+      "failures": [
+        "E-4_0",
+        "E-4_1",
+        "E-4_3",
+        "E-4_4",
+        "E-4_6",
+        "E-4_7",
+        "E-4_8",
+        "E-4_9",
+        "E-4_12",
+        "E-4_14",
+        "E-4_17",
+        "E-4_18",
+        "E-4_19",
+        "E-4_21",
+        "E-4_22",
+        "E-4_23",
+        "E-4_24",
+        "E-4_28"
+      ]
+    },
+    "E-7": {
+      "total": 30,
+      "passed": 9,
+      "failed": 21,
+      "accuracy": 30.0,
+      "failures": [
+        "E-7_0",
+        "E-7_1",
+        "E-7_2",
+        "E-7_3",
+        "E-7_4",
+        "E-7_8",
+        "E-7_9",
+        "E-7_10",
+        "E-7_11",
+        "E-7_12",
+        "E-7_13",
+        "E-7_15",
+        "E-7_17",
+        "E-7_19",
+        "E-7_20",
+        "E-7_23",
+        "E-7_24",
+        "E-7_25",
+        "E-7_27",
+        "E-7_28",
+        "E-7_29"
+      ]
+    },
+    "O-1": {
+      "total": 30,
+      "passed": 5,
+      "failed": 25,
+      "accuracy": 16.67,
+      "failures": [
+        "O-1_0",
+        "O-1_1",
+        "O-1_2",
+        "O-1_3",
+        "O-1_6",
+        "O-1_7",
+        "O-1_8",
+        "O-1_9",
+        "O-1_10",
+        "O-1_11",
+        "O-1_12",
+        "O-1_13",
+        "O-1_14",
+        "O-1_15",
+        "O-1_16",
+        "O-1_18",
+        "O-1_19",
+        "O-1_20",
+        "O-1_21",
+        "O-1_23",
+        "O-1_24",
+        "O-1_26",
+        "O-1_27",
+        "O-1_28",
+        "O-1_29"
+      ]
+    },
+    "E-5": {
+      "total": 30,
+      "passed": 10,
+      "failed": 20,
+      "accuracy": 33.33,
+      "failures": [
+        "E-5_0",
+        "E-5_2",
+        "E-5_3",
+        "E-5_4",
+        "E-5_6",
+        "E-5_7",
+        "E-5_9",
+        "E-5_10",
+        "E-5_12",
+        "E-5_13",
+        "E-5_14",
+        "E-5_16",
+        "E-5_18",
+        "E-5_19",
+        "E-5_20",
+        "E-5_21",
+        "E-5_24",
+        "E-5_25",
+        "E-5_26",
+        "E-5_27"
+      ]
+    },
+    "E-6": {
+      "total": 30,
+      "passed": 10,
+      "failed": 20,
+      "accuracy": 33.33,
+      "failures": [
+        "E-6_0",
+        "E-6_1",
+        "E-6_3",
+        "E-6_4",
+        "E-6_5",
+        "E-6_6",
+        "E-6_9",
+        "E-6_11",
+        "E-6_12",
+        "E-6_14",
+        "E-6_15",
+        "E-6_16",
+        "E-6_17",
+        "E-6_18",
+        "E-6_19",
+        "E-6_20",
+        "E-6_21",
+        "E-6_22",
+        "E-6_27",
+        "E-6_28"
+      ]
+    },
+    "O-6": {
+      "total": 30,
+      "passed": 12,
+      "failed": 18,
+      "accuracy": 40.0,
+      "failures": [
+        "O-6_0",
+        "O-6_1",
+        "O-6_2",
+        "O-6_3",
+        "O-6_5",
+        "O-6_7",
+        "O-6_8",
+        "O-6_11",
+        "O-6_13",
+        "O-6_18",
+        "O-6_19",
+        "O-6_21",
+        "O-6_23",
+        "O-6_24",
+        "O-6_25",
+        "O-6_26",
+        "O-6_27",
+        "O-6_28"
+      ]
+    },
+    "E-8": {
+      "total": 30,
+      "passed": 9,
+      "failed": 21,
+      "accuracy": 30.0,
+      "failures": [
+        "E-8_0",
+        "E-8_1",
+        "E-8_2",
+        "E-8_3",
+        "E-8_4",
+        "E-8_5",
+        "E-8_7",
+        "E-8_9",
+        "E-8_10",
+        "E-8_11",
+        "E-8_12",
+        "E-8_13",
+        "E-8_16",
+        "E-8_17",
+        "E-8_18",
+        "E-8_21",
+        "E-8_22",
+        "E-8_23",
+        "E-8_25",
+        "E-8_26",
+        "E-8_27"
+      ]
+    },
+    "O-3": {
+      "total": 30,
+      "passed": 4,
+      "failed": 26,
+      "accuracy": 13.33,
+      "failures": [
+        "O-3_0",
+        "O-3_1",
+        "O-3_2",
+        "O-3_3",
+        "O-3_4",
+        "O-3_5",
+        "O-3_6",
+        "O-3_7",
+        "O-3_8",
+        "O-3_10",
+        "O-3_11",
+        "O-3_12",
+        "O-3_13",
+        "O-3_14",
+        "O-3_15",
+        "O-3_18",
+        "O-3_19",
+        "O-3_20",
+        "O-3_21",
+        "O-3_22",
+        "O-3_23",
+        "O-3_24",
+        "O-3_25",
+        "O-3_26",
+        "O-3_27",
+        "O-3_29"
+      ]
+    }
+  },
+  "by_intent": {
+    "savings_runway": {
+      "total": 116,
+      "passed": 36,
+      "failed": 80,
+      "accuracy": 31.03
+    },
+    "job_search_timeline": {
+      "total": 73,
+      "passed": 35,
+      "failed": 38,
+      "accuracy": 47.95
+    },
+    "savings_sufficiency": {
+      "total": 51,
+      "passed": 0,
+      "failed": 51,
+      "accuracy": 0.0
+    }
+  },
+  "worst_performing": [
+    {
+      "scenario_id": "E-4_0",
+      "expected": "savings_runway",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_1",
+      "expected": "savings_sufficiency",
+      "detected": "unknown",
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_12",
+      "expected": "savings_runway",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_14",
+      "expected": "savings_sufficiency",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_17",
+      "expected": "savings_runway",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_18",
+      "expected": "savings_runway",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_19",
+      "expected": "savings_runway",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_21",
+      "expected": "job_search_timeline",
+      "detected": "savings_runway",
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-4_22",
+      "expected": "job_search_timeline",
+      "detected": "unknown",
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_23",
+      "expected": "savings_sufficiency",
+      "detected": "job_search_timeline",
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scenario_id": "E-4_0",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_1",
+      "rank": "E-4",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_2",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_3",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_4",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_5",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_6",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_7",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_8",
+      "rank": "E-4",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_9",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_10",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_11",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_12",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_13",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_14",
+      "rank": "E-4",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_15",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_16",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_17",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_18",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_19",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_20",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_21",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-4_22",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_23",
+      "rank": "E-4",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_24",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-4_25",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_26",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_27",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-4_28",
+      "rank": "E-4",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-4_29",
+      "rank": "E-4",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_0",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_1",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_2",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_3",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_4",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_5",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_6",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_7",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_8",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_9",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_10",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_11",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_12",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-5_13",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_14",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-5_15",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_16",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_17",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_18",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_19",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-5_20",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_21",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_22",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_23",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_24",
+      "rank": "E-5",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_25",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_26",
+      "rank": "E-5",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-5_27",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-5_28",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-5_29",
+      "rank": "E-5",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_0",
+      "rank": "E-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_1",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_2",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_3",
+      "rank": "E-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_4",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_5",
+      "rank": "E-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_6",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_7",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_8",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_9",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_10",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_11",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-6_12",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_13",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_14",
+      "rank": "E-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-6_15",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_16",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-6_17",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_18",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_19",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_20",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-6_21",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-6_22",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_23",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_24",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_25",
+      "rank": "E-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_26",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-6_27",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-6_28",
+      "rank": "E-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-6_29",
+      "rank": "E-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_0",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-7_1",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-7_2",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_3",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_4",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_5",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_6",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_7",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_8",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_9",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-7_10",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_11",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-7_12",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_13",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_14",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_15",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_16",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_17",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_18",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_19",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_20",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_21",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_22",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_23",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_24",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_25",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_26",
+      "rank": "E-7",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-7_27",
+      "rank": "E-7",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-7_28",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-7_29",
+      "rank": "E-7",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_0",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_1",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_2",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_3",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_4",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_5",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_6",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_7",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_8",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_9",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_10",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_11",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_12",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_13",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_14",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_15",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_16",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_17",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_18",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-8_19",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_20",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_21",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_22",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-8_23",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_24",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_25",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "E-8_26",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "E-8_27",
+      "rank": "E-8",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "E-8_28",
+      "rank": "E-8",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "E-8_29",
+      "rank": "E-8",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_0",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_1",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-1_2",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_3",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_4",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_5",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_6",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_7",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-1_8",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-1_9",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-1_10",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-1_11",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_12",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_13",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_14",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_15",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_16",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_17",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_18",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_19",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_20",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_21",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-1_22",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_23",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_24",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_25",
+      "rank": "O-1",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-1_26",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_27",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_28",
+      "rank": "O-1",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-1_29",
+      "rank": "O-1",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_0",
+      "rank": "O-3",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_1",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_2",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_3",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_4",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_5",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_6",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_7",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_8",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_9",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-3_10",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_11",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_12",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_13",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_14",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_15",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_16",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-3_17",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-3_18",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_19",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_20",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_21",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_22",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_23",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_24",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_25",
+      "rank": "O-3",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-3_26",
+      "rank": "O-3",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-3_27",
+      "rank": "O-3",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-3_28",
+      "rank": "O-3",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-3_29",
+      "rank": "O-3",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_0",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_1",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_2",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_3",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_4",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_5",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_6",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_7",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-6_8",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-6_9",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_10",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "job_search_timeline",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_11",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_12",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_13",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_14",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_15",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_16",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_17",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_18",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_19",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-6_20",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_21",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_22",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    },
+    {
+      "scenario_id": "O-6_23",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_24",
+      "rank": "O-6",
+      "expected_intent": "job_search_timeline",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'job_search_timeline', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_25",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "job_search_timeline",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_runway', got 'job_search_timeline'"
+    },
+    {
+      "scenario_id": "O-6_26",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-6_27",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "unknown",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'unknown'"
+    },
+    {
+      "scenario_id": "O-6_28",
+      "rank": "O-6",
+      "expected_intent": "savings_sufficiency",
+      "detected_intent": "savings_runway",
+      "passed": false,
+      "error": "Intent mismatch: expected 'savings_sufficiency', got 'savings_runway'"
+    },
+    {
+      "scenario_id": "O-6_29",
+      "rank": "O-6",
+      "expected_intent": "savings_runway",
+      "detected_intent": "savings_runway",
+      "passed": true,
+      "error": ""
+    }
+  ]
+}

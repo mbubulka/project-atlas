@@ -1,0 +1,1164 @@
+[
+  {
+    "input_text": "What if I use VA IRRRL (Interest Rate Reduction Refinancing Loan) to lower my mortgage rate from 6.2% to 4.5%?",
+    "target_text": "VA IRRRL refi: 6.2% \u2192 4.5% on $350k mortgage = $320/month savings. VA IRRRL streamlined process: No appraisal, credit check waived for existing VA borrowers. Costs: Funding fee ~1-2% = $3,500-7,000. Payback: 11-22 months. Annual savings: $3,840. Strategic: Exclusive VA benefit, often better than conventional refi. Monthly expenses drop $320.",
+    "category": "housing",
+    "topic": "va_irrrl_refinance",
+    "source": "Real_VA_Benefit"
+  },
+  {
+    "input_text": "What if I qualify for state property tax freeze program and lock my taxes at current level (saves $60/month as property value increases)?",
+    "target_text": "Property tax freeze: Many states freeze taxes for seniors/military at current assessment. Home value increases $30k \u2192 normally +$120/year taxes, freeze prevents = $120/year savings = $10/month. Compound over 10 years = $1,200 savings. Strategic: Applies to homestead property. Eligibility: Varies by state (CA, FL, TX have programs). Monthly expenses drop $10 growing to $20+ as years pass.",
+    "category": "housing",
+    "topic": "property_tax_freeze",
+    "source": "Real_Tax_Program"
+  },
+  {
+    "input_text": "If I take a VA HECM (reverse mortgage) as lump sum and use $200,000 to pay off all debt, eliminating $400/month payments?",
+    "target_text": "HECM strategic use: Requires 62+, home equity $400k+. Lump sum $200k used to eliminate debts ($400/month payments). Monthly expenses drop $400. Tradeoff: HECM has fees/interest, home becomes encumbered, reduces estate. Strategic: Only for retirees with substantial equity and no heirs priority. Frees $4,800/year immediate cash flow.",
+    "category": "housing",
+    "topic": "reverse_mortgage_strategy",
+    "source": "Real_Elderly_Financial"
+  },
+  {
+    "input_text": "If I file for homestead property tax exemption in my state and reduce property taxes by $50/month?",
+    "target_text": "Homestead exemption: Many states reduce property taxes for primary residence. Application reduces taxable assessment. Example: Texas exempts $25k value \u2192 saves $50-75/month depending on rate. Strategic: Available to most homeowners, not just military. One-time filing. Monthly expenses drop $50 = $600/year.",
+    "category": "housing",
+    "topic": "homestead_tax_exemption",
+    "source": "Real_Tax_Benefit"
+  },
+  {
+    "input_text": "If I downsize from my home and reduce mortgage by $400/month, does that improve my financial position?",
+    "target_text": "Downsizing impact: $400/month mortgage reduction = $4,800/year savings. New monthly expenses drop from current total to (new_total - $400). Example: $10,000/month expenses - $400 mortgage = $9,600 new baseline. Monthly surplus improves by $400. Also reduces property taxes, insurance, utilities ~$50-100/month additional savings. Total impact: $450-500/month improved cash flow = $5,400-6,000/year.",
+    "category": "housing",
+    "topic": "housing_downsizing",
+    "source": "Real_Housing_Scenarios"
+  },
+  {
+    "input_text": "Cut HOA fees by $85/month by moving from active community to standard neighborhood.",
+    "target_text": "HOA elimination: Active community $150/month vs standard neighborhood $65/month = $85 savings. Or downsize to no-HOA $0. Trade-off: Less maintained common areas. Monthly expenses drop $85. Strategic: Common option for retirees seeking lower overhead.",
+    "category": "housing",
+    "topic": "housing_community_change",
+    "source": "Real_Housing_Decision"
+  },
+  {
+    "input_text": "Reduced landscaping costs by $100/month by switching from weekly service to bi-weekly and doing partial DIY.",
+    "target_text": "Landscaping cost reduction: Weekly service $150/month \u2192 bi-weekly $50/month + DIY $0 = $100 savings. Annual: $1,200. Retirees often have flexibility for DIY. Monthly expenses drop $100. Strategic: Common retirement lifestyle benefit.",
+    "category": "housing",
+    "topic": "home_maintenance_optimization",
+    "source": "Real_Lifestyle_Flexibility"
+  },
+  {
+    "input_text": "What if I eliminated my home phone and just use VOIP ($5/month vs $45/month), saving $40/month?",
+    "target_text": "Home phone elimination: $45/month \u2192 $5/month VOIP = $40/month savings ($480/year). Technology shift: Most retirees already use mobile. Monthly expenses drop $40. Strategic: Eliminate dead expense, keep VOIP for backup. No behavioral change, pure cost reduction.",
+    "category": "housing",
+    "topic": "home_utilities_optimization",
+    "source": "Real_Technology_Migration"
+  },
+  {
+    "input_text": "What if I changed my water heating from electric to tankless gas, reducing utility bills by $50/month?",
+    "target_text": "Tankless water heater upgrade: $1,500 install \u2192 $50/month savings = payback 30 months. Annual reduction: $600. Monthly expenses drop $50. Plus: Space savings, endless hot water. Strategic: Good for retirees staying 5+ years in home.",
+    "category": "housing",
+    "topic": "utility_major_upgrade",
+    "source": "Real_Home_Efficiency"
+  },
+  {
+    "input_text": "If I reduce homeowner's insurance by bundling with auto through same provider, can I save $25/month?",
+    "target_text": "Insurance bundling: Separate policies $200/month, bundled $175/month = $25 savings. Annual: $300. Strategic: Often overlooked discount. Annual shop recommended for competitive rates. Monthly expenses drop $25. Cumulative effect significant.",
+    "category": "housing",
+    "topic": "insurance_bundling",
+    "source": "Real_Insurance_Bundling"
+  },
+  {
+    "input_text": "Reduced home security monitoring from $60 to $25/month by switching to DIY cameras - savings?",
+    "target_text": "Home security downgrade: Professional monitoring $60/month vs DIY camera system ($25 + upfront $300) = $35 savings. Payback: 8-9 months. Annual: $420. Monthly expenses drop $35. Trade-off: Self-monitoring required.",
+    "category": "housing",
+    "topic": "home_security_optimization",
+    "source": "Real_Technology_Switch"
+  },
+  {
+    "input_text": "What if I reduce home maintenance budget by deferring non-urgent repairs (paint, roof inspection) by $75/month?",
+    "target_text": "Maintenance deferment: Urgent repairs only = $75/month savings. Annual: $900. Risk: Deferred maintenance compounds. Strategic: Temporary during cash flow constraints. Monthly expenses drop $75. Plan to resume when stable.",
+    "category": "housing",
+    "topic": "home_maintenance_deferment",
+    "source": "Real_Risk_Deferral"
+  },
+  {
+    "input_text": "If I eliminate my umbrella insurance policy ($25/month) and self-insure with higher deductibles?",
+    "target_text": "Umbrella insurance elimination: $25/month policy vs self-insurance. Risk trade-off. Strategic: Lower income retirees often skip umbrella. Monthly expenses drop $25. Annual: $300. Risk: Catastrophic loss exposure increases.",
+    "category": "housing",
+    "topic": "insurance_risk_adjustment",
+    "source": "Real_Insurance_Calculation"
+  },
+  {
+    "input_text": "Reduced pest control from monthly ($80) to quarterly ($40/visit) - saves how much monthly?",
+    "target_text": "Pest control frequency reduction: Monthly $80 vs quarterly $40 = $70/month average savings. Annual: $840. Works for: Low-pest areas, preventive treatments. Doesn't work: Active infestation. Monthly expenses drop $70.",
+    "category": "housing",
+    "topic": "home_maintenance_reduction",
+    "source": "Real_Maintenance_Schedule"
+  },
+  {
+    "input_text": "What is the VA loan limit for my state?",
+    "target_text": "VA loan limits vary by county. As of 2024, the 30% increase in limits applies nationwide. Conforming limits vary county-to-county. Check VA website for your county. Higher entitlement allows larger purchases without down payment.",
+    "category": "housing",
+    "topic": "va_loan_limits",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use my VA loan benefit more than once?",
+    "target_text": "Yes, VA loan benefit can be used multiple times if you restore your entitlement by selling previous home or paying off previous VA loan. Strategic for military retirees planning multiple moves.",
+    "category": "housing",
+    "topic": "va_loan_reuse",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What are the average closing costs on a VA loan?",
+    "target_text": "VA loans typically have lower closing costs than conventional loans. Average 2-4% of loan amount. Seller often required to pay buyer's closing costs. Closing cost advantage: $2,000-4,000 on $200k loan.",
+    "category": "housing",
+    "topic": "va_loan_costs",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I need a down payment on a VA loan?",
+    "target_text": "No down payment required for VA loans (0% down). One of the largest VA benefits. Funding fee typically 1-3% depending on service history. Allows military retirees to purchase without savings accumulation.",
+    "category": "housing",
+    "topic": "va_loan_down_payment",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What's the difference between a VA loan and conventional mortgage?",
+    "target_text": "VA loans: 0% down, no PMI, lower rates, VA guarantees lender loss. Conventional: 5-20% down, PMI required if <20%, higher rates. VA loans superior for military retirees. May require funding fee but still lower total cost.",
+    "category": "housing",
+    "topic": "va_vs_conventional_loan",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I buy a home in a lower cost-of-living state to reduce expenses?",
+    "target_text": "Yes, geographic arbitrage powerful for military retirees. Move Seattle ($8,500/month) to Texas ($7,700/month) = $800/month savings. Plus: No state income tax in TX = additional $300+/month benefit. Total: $1,100+/month improvement potential = $13,200/year.",
+    "category": "housing",
+    "topic": "geographic_arbitrage",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What are typical renovation costs for a home purchase?",
+    "target_text": "Minor renovation: $5,000-15,000. Major renovation: $20,000-50,000. Kitchen/bath: $10,000-30,000 each. Strategic: Factor into purchase price + renovation budget before buying. May be better to buy move-in-ready than fixer-upper for retirees on fixed income.",
+    "category": "housing",
+    "topic": "home_renovation_budget",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I buy or rent in retirement?",
+    "target_text": "Buy if: Planning to stay 5+ years, have down payment/equity, want stability. Rent if: Flexibility needed, avoiding maintenance burden, trying locations. Military retirees: Often buy for stability post-career. Compare: $1,500 rent vs $1,200 mortgage+insurance+taxes+maintenance = often wash but buy builds equity.",
+    "category": "housing",
+    "topic": "buy_vs_rent_decision",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Does the GI Bill cover housing and books in addition to tuition?",
+    "target_text": "GI Bill Post-9/11: Covers tuition, fees, AND monthly housing allowance (BAH). BAH varies by school location, typically $1,000-2,500/month. Books/supplies: $1,000 annually. Strategic: Full coverage removes education expense. Use while eligible.",
+    "category": "housing",
+    "topic": "gi_bill_bah",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the current monthly housing allowance (BAH) for GI Bill students?",
+    "target_text": "GI Bill BAH: Varies by location and school zip code. National average: $1,400/month (2024). High-cost areas (CA, NYC): $2,500+/month. Low-cost areas: $800-1,200/month. Used for: Rent, mortgages, living expenses. Distributed monthly by VA. Strategic: BAH offsets major living expense during education.",
+    "category": "housing",
+    "topic": "gi_bill_bah_amount",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How is my VA disability rating calculated?",
+    "target_text": "VA disability ratings are calculated based on the severity of your service-connected condition(s). The VA uses a detailed rating schedule to assign percentages: 0%, 10%, 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, or 100%. Multiple conditions are combined using the VA Combined Ratings Table (non-linear formula). For example, 50% + 30% doesn't equal 80%; instead: 50% leaves 50% remaining function, 30% of that 50% = 15%, total = 65%. The calculation is based on medical evidence, severity of symptoms, and functional impairment. Your effective date is typically the date you file your claim or when evidence supports an earlier date.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What's the difference between service-connected and non-service-connected disabilities?",
+    "target_text": "Service-connected disabilities = conditions caused or worsened by military service. These are eligible for VA compensation (tax-free monthly payments) and related benefits (healthcare, TDIU, CRSC). Non-service-connected disabilities = medical conditions not caused by military service or not formally connected through VA claim process. Non-service-connected conditions are NOT eligible for VA disability compensation (though may qualify for VA healthcare separately). You must establish the connection through VA claim (nexus letter, military records, medical evidence). Service-connected status is crucial for eligibility determination.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my VA disability rating decrease after I retire?",
+    "target_text": "Yes, VA can decrease your rating post-retirement if: (1) Medical evidence shows improvement, (2) VA schedules periodic review, (3) You received initial rating based on temporary condition. However, you have legal protections: (1) Receive advance notice before decrease, (2) Can request Higher-Level Review of decrease decision, (3) Can appeal through Board of Veterans' Appeals. Many retirees prevent decreases by submitting medical evidence showing no improvement. Conditions unlikely to improve (amputation, blindness) typically protected. Act within 30 days of decrease notice to file appeal.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I appeal a VA disability rating decision?",
+    "target_text": "Three appeal paths available: (1) Supplemental Claim = submit new medical evidence (4-6 month processing), (2) Higher-Level Review = request same-level rater review for errors (4-5 months), (3) Board Appeal = formal hearing before Veterans' Administrative Law Judge (12-18+ months). File Notice of Disagreement (NOD) within 1 year of decision. Using accredited Veterans Service Officer (VSO) representative significantly increases approval odds (free service). Evidence quality crucial (updated medical exams, nexus letters, lay statements). Appeals don't restart the clock; effective date typically decision date.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What does 100% VA disability mean for my retirement benefits?",
+    "target_text": "100% disability rating = maximum VA compensation (~$3,737/month in 2026, tax-free). Benefits include: (1) Full tax-free monthly payment, (2) Dependent allowances (spouse +$27, children +$10-15 each), (3) Automatic TDIU (can't work substantially), (4) Enhanced SBP (Survivor Benefit Plan option), (5) Property tax exemption (state-specific, usually 100% disabled veterans exempt), (6) Priority VA healthcare access, (7) Vocational Rehabilitation & Employment program (5th benefit for disabled veterans). 100% ratings typically permanent (don't require periodic review). Substantially different payment and benefit level compared to 50% or other ratings.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is TDIU and how does it differ from regular VA disability benefits?",
+    "target_text": "TDIU (Total Disability Individual Unemployability) = compensation at 100% rate even if actual disability rating below 100%. Requirements: (1) Service-connected disability 60%+ (or 40%+ with one condition 60%+), (2) Inability to work due to service-connected condition(s), (3) Medical evidence of employment barriers. Differs from regular disability: regular based on severity rating (10-100%); TDIU based on work capacity regardless of rating. Must document work history, failed employment attempts, medical restrictions. File VA Form 21-8940 with Increase Request. Once approved, receive 100% compensation for as long as unemployable.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Am I eligible for Concurrent Retirement Compensation (CRSC)?",
+    "target_text": "CRSC eligibility = Military retiree + service-connected VA disability 50%+ rating. Without CRSC, military retirement pay offsets against VA compensation (can't receive both). With CRSC, receive full military retirement PLUS full VA disability compensation (no offset). Requirements: (1) 20+ years service, (2) Military retirement pay, (3) VA disability 50%+, (4) CRSC application. Cost: Free (no monthly deduction). Effective date: usually application approval date. Annual COLA increases apply to both payments separately. CRSC = one of most valuable benefits for eligible military retirees. Apply through DFAS; coordinate with VA ratings.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How is sleep apnea rated by the VA?",
+    "target_text": "VA rates sleep apnea at: 0% = documented apnea no daytime symptoms, 30% = mild daytime sleepiness/fatigue, 50% = moderate daytime impairment (requires CPAP, occupational impact), 100% = severe sleep apnea (significantly disables work/function). Rating based on: (1) Sleep study documentation (AHI = apnea-hypopnea index), (2) Daytime symptoms (sleepiness, fatigue, cognitive issues), (3) Medical treatment requirements (CPAP, surgery). Sleep apnea = presumptive condition for burn pit exposure, Agent Orange (certain dates/locations). Veterans high rate due to noise exposure, occupational stress. Updated sleep studies support rating increases.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the VA disability rating for tinnitus or hearing loss?",
+    "target_text": "Hearing loss = rated 0%, 10%, 20%, 30%, 40%, or 50% based on audiogram (speech discrimination score + pure tone average). Tinnitus alone = typically 10% (compensable). Combined = hearing loss rating applies. Bilateral factor = adds 10% if both ears affected (rated separately then combined). Example: Both ears 20% hearing = 20% + 10% bilateral = 30%. Tinnitus = common in military (noise exposure, blast trauma). Requires subjective verification by audiologist. Veterans can pursue increases with updated audiograms showing worsening. Audiogram quality critical for accurate rating.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How is my combined VA disability rating calculated with multiple conditions?",
+    "target_text": "VA uses non-linear Combined Ratings Table (not simple addition). Process: (1) Highest rating applied first, (2) Remaining functional capacity calculated, (3) Next rating applied to remaining capacity. Example: 50% + 30% = (50% leaves 50% remaining); 30% of 50% = 15%; total = 50% + 15% = 65%. Multiple conditions compound less than single-condition ratings. VA combines all service-connected conditions into single rating percentage. Higher ratings have diminishing impact on total (100% already maximum). You receive monthly payment based on combined percentage. Recalculation when adding new conditions.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my VA disability rating increase after I retire from the military?",
+    "target_text": "Yes, absolutely. No time limit for increases post-retirement. File increase claim: (1) Supplemental Claim with new medical evidence, (2) Document condition worsened since last rating, (3) Include updated medical exams, provider opinions, lay statements. Processing time = 4-6 months. Effective date = VA decision date (or earlier if evidence supports). Many conditions deteriorate post-service (joints, back, mental health common). VA also schedules periodic reexams (every 1-5 years depending on condition). Increases often 10-30 percentage points when granted. Using VSO representative strengthens application.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What medical documentation do I need for a VA disability claim?",
+    "target_text": "Essential documentation: (1) Nexus letter from physician (VA or civilian) linking condition to military service, (2) Medical records documenting condition (diagnosis, treatment, current status), (3) Service records (military unit, job title, exposures, dates), (4) VA will schedule C&P Exam (Compensation & Pension) to evaluate severity. Best practice: physician writes detailed nexus letter explaining mechanism (service exposure \u2192 condition pathway \u2192 current status). Include dates, locations, co-workers' corroborating accounts. Submit all available records; VA obtains missing records via NSA/archives. Complete documentation speeds approval.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the difference between 50% and 100% VA disability benefits?",
+    "target_text": "50% rating: Monthly payment ~$1,437 (2026), eligible for dependent additions, CRSC eligible with military retirement, can work (no employment restrictions), partial SBP option. 100% rating: Monthly payment ~$3,737 (2026), enhanced dependent additions, CRSC combines retirement + disability fully, likely cannot work substantially (TDIU), enhanced SBP options, state property tax exemptions usually available. 100% = permanent rating (no periodic review). 50-99% rates subject to periodic review. 100% approximately 2.6x higher payment. Both provide tax-free compensation and VA healthcare access. 100% typically requires significant occupational/functional impairment.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How long does it take for the VA to return a decision on a claim appeal?",
+    "target_text": "Processing times: Supplemental Claim = 4-6 months (new evidence route), Higher-Level Review = 4-5 months (error review), Board Appeal = 12-18+ months (formal hearing, varies by backlog). Initial claim decision = 3-6 months average. Factors affecting timeline: (1) Complete evidence submission (missing docs = delays), (2) Exam scheduling availability, (3) VA backlog (currently 5-10 week backlog), (4) Complexity of case. Can check status via VA.gov VA Benefits portal. Expedited processing available for severe cases (5-day emergency review). Using VSO representative may speed process. More evidence = potentially longer review time.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my VA disability rating be increased by filing an appeal?",
+    "target_text": "Yes. Appeal options for increase: (1) Supplemental Claim (new medical evidence best route), (2) Higher-Level Review (policy/procedural errors), (3) Board Appeal (formal hearing). Increases granted if: (1) New medical evidence shows worsening, (2) Prior exam rating was too conservative, (3) Additional conditions documented since claim. Many appealed cases increased 10-30 percentage points. Effective date = VA decision date (can be backdated if evidence supports earlier). Using accredited VSO representative strengthens appeal odds significantly (free assistance). Timeline = 4-18 months depending on appeal path.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What conditions are most commonly rated as 100% disability by the VA?",
+    "target_text": "Most common 100% conditions: (1) PTSD severe (affecting all occupational/social function), (2) Traumatic brain injury moderate-severe (cognitive, mobility, coordination loss), (3) Spinal cord injury (paralysis, loss of multiple limbs), (4) Blindness/severe vision loss, (5) Loss of two or more limbs, (6) Severe burn injuries, (7) Severe hearing loss + tinnitus (combined), (8) Multiple conditions combined equaling 100% (e.g., 50% + 40% + other). PTSD = single condition reaching 100% if most severe rating. TBI frequently reaches 100% due to multiple functional losses. Many veterans don't pursue 100% claims for conditions potentially meeting threshold.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do family members affect my VA disability rating decision?",
+    "target_text": "No. Disability rating percentage depends solely on: (1) Service connection (was condition caused/worsened by service), (2) Current severity (medical evidence only). Family circumstances, spouse income, dependents = do NOT affect rating percentage. However: Family status DOES affect dependent compensation amount added to rating: Spouse adds ~$27/month, Each child adds ~$10-15/month. Rating = individual determination; compensation = adjusted for family circumstances. Divorce/custody changes don't affect rating, only dependent payment adjustments.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I get unemployability benefits if I cannot work due to my disabilities?",
+    "target_text": "Yes, through TDIU (Total Disability Individual Unemployability). Requirements: (1) Service-connected disability 60%+ (or 40%+ with one at 60%+), (2) Inability to work substantially/gainfully due to service-connected condition(s), (3) Medical evidence supporting employment barriers. Benefits: 100% monthly compensation regardless of actual disability rating. File VA Form 21-8940 (Application for Unemployability) with Increase Request. Documentation: work history, job losses, medical restrictions, provider opinion on work capacity. Once approved, receive 100% compensation indefinitely (subject to periodic VA review). Key benefit for unemployable veterans.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the difference between bilateral and non-compensable disabilities?",
+    "target_text": "Bilateral disability = same condition affecting both sides of body (hearing loss both ears, arthritis both knees, etc.). VA rates bilateral conditions separately, then applies bilateral factor (adds 10% boost to combined rating). Example: 20% both ears = 20% + 10% bilateral factor = 30% combined. Non-compensable disability = service-connected condition documented but rated 0% (condition exists but doesn't significantly impair function). Non-comp conditions not paid monthly but documented for records. Can increase non-comp to compensable with new evidence. Bilateral conditions receive rating boost versus unilateral condition.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I appeal a VA rating decrease after military retirement?",
+    "target_text": "Yes, absolutely. If VA decreases your rating: (1) Receive advance notice, (2) File Notice of Disagreement (NOD) within 30 days, (3) Request Higher-Level Review (different rater reviews decision), (4) File Supplemental Claim with medical evidence, (5) Board Appeal for formal hearing. Many decreases overturned with updated medical records showing condition stable or worsened. Protected conditions (amputation, blindness, etc.) typically prevent decreases. Using VSO representative increases reversal odds. Act within 30-day window to preserve appeal options. Don't ignore decrease notice.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can weather or altitude aggravate my service-connected disability?",
+    "target_text": "Yes. Environmental factors can legitimately aggravate service-connected conditions: Cold weather = worsens arthritis, neuropathy, Raynaud's syndrome. High altitude = exacerbates PTSD, breathing issues, cardiovascular conditions. Humidity = triggers joint pain, asthma. If aggravation documented medically and causally linked to service-connected condition, file increase claim. Requirements: (1) Service-connection exists, (2) Environmental exposure identified, (3) Medical evidence of aggravation. Document medical changes with healthcare provider; submit to VA with environmental trigger details. Climate-related aggravations common in retirees relocating.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What evidence is needed to link my civilian condition to military service?",
+    "target_text": "Critical evidence for nexus: (1) Nexus letter from physician explaining service \u2192 condition pathway, (2) Service records (unit, job, exposure type/dates), (3) Lay statements from co-workers describing conditions/exposures, (4) Medical records (service and civilian), (5) Expert opinion (especially for specialized conditions). Nexus letter = most important (explains mechanism of causation). Must address three elements: (1) medical probability of causation, (2) factual basis for opinion, (3) explanation of medical reasoning. Even partial/circumstantial evidence can establish connection. VA presumes connection for presumptive conditions (burn pit, Agent Orange, radiation).",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I need medical records from active duty to file a VA claim?",
+    "target_text": "No, not required (though helpful). Many service members have incomplete active duty medical records. Claim can succeed with: (1) Lay statements (your account of condition/exposure/symptoms), (2) Civilian medical records (VA or private), (3) Nexus opinion from civilian provider, (4) Presumptive conditions (automatic approval: burn pit, Agent Orange, radiation, etc.). VA obtains missing active duty records via NSA/military medical archives. If records unavailable, VA doesn't deny claim; instead uses lay evidence and presumptive rules. File claim; let VA retrieve records. Missing records don't prevent approval if other evidence strong.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I request an increase in my VA disability rating?",
+    "target_text": "Yes, anytime. File VA Form 21-526EZ marked 'INCREASE CLAIM' with: (1) Updated medical evidence (recent exam, provider letter), (2) Documentation of worsened symptoms (dates, severity), (3) New service-connected conditions diagnosed since initial claim. Processing = 4-6 months. Effective date = VA receives claim (back pay calculated from this date). No limit on requesting increases; file whenever condition worsens. Using VSO representative recommended. VA schedules periodic reexams every 1-5 years; they may initiate increases based on exam findings. Favorable review possible if medical evidence strong.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the effective date of my VA disability compensation?",
+    "target_text": "Effective date determines when compensation starts (crucial for back pay): Initial claim = typically date claim received (if filed within 1 year separation, may be retroactive to separation), Increase claim = date VA receives increased claim, Appeal approval = date of decision (can be backdated if evidence supports earlier rating), Effective date back pay calculated from this date. Example: Rated 50% effective 01/2024, decided 06/2024 = receive 5 months back pay lump sum. Request earliest supportable effective date in documentation. Effective dates determine payment START month; subsequent payments monthly forever.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I transfer my GI Bill to my spouse or children?",
+    "target_text": "Only if approved during service (before separation/retirement). Requires: (1) Written approval from service branch before discharge, (2) 4-year service commitment post-approval (extension obligation). Can transfer full 36 months to one dependent or split across spouse/children. Example: 24 months spouse, 12 months children. Dependents using transferred benefits receive full tuition + BAH (housing allowance). Cannot transfer if not approved during active duty; no retroactive transfers post-separation. Spouse/children eligibility: transferable GI Bill remains valid 15 years. Planning ahead during service = critical for this benefit.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How much active duty service do I need to use the GI Bill?",
+    "target_text": "Post-9/11 GI Bill eligibility: (1) 90+ days active duty (includes pre-9/11/2001 service), (2) Honorable discharge, (3) Service on active duty after 9/10/2001. Less than 90 days = partial benefits (proportional). Full 36-month benefit = approximately 36 months qualifying service. High school completion while active duty counts. National Guard/Reserve = different calculation (usually need 6+ years). DD-214 / discharge papers show qualifying service. Activate GI Bill benefits post-separation through VA.gov. Service calculated from enlistment date through separation date.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use my GI Bill while working full-time after active duty?",
+    "target_text": "Yes, absolutely. No employment restrictions. Common approach: Full-time employment + GI Bill. (1) Full-time school enrollment = full BAH (~$1,200-$2,500/month), (2) Part-time enrollment = reduced BAH proportionally. Employment income does NOT reduce GI Bill benefits/BAH. Many use GI Bill while working for financial security + education advancement. Part-time student status works with full-time job scheduling. Cost: GI Bill covers tuition up to max; job provides living expenses + tuition gap. Excellent benefit combination for post-service career development.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How long do I have to use my Post-9/11 GI Bill after separation?",
+    "target_text": "15-year eligibility window after separation (not 35 years; older GI Bills had different timelines). Example: Separate 01/2024, benefit expires 01/2039. You have full 15 years to use any/all of your 36 months. No time limit between enrollment periods (can stop 2 years, return later within 15-year window). Remaining months valid indefinitely within window. Timeline = generous for most retirees. Plan education strategically; you don't need to use all months immediately.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the Yellow Ribbon Program for military dependent education?",
+    "target_text": "Yellow Ribbon Program = supplemental funding for dependents (via transferred GI Bill) attending high-cost colleges (private, out-of-state). How it works: (1) School contributes matching funds (capped at $300/month), (2) VA matches school's contribution (same amount), (3) Together covers tuition beyond GI Bill max. Requirements: (1) School participates in program, (2) Dependent has transferable GI Bill, (3) School contribution available. Benefits: Covers tuition gap at expensive schools. Check school's Yellow Ribbon agreement for specific contribution amounts. Valuable for Ivy League, expensive private institutions. Essentially doubles available funding for tuition.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my dependent use the Fry Scholarship instead of GI Bill?",
+    "target_text": "Yes. Fry Scholarship = education benefit for spouses/children of veterans who died OR became 100% disabled in service/from service-connected condition. Provides: (1) 36 months full-time enrollment, (2) Full tuition (public in-state), (3) BAH (E-5 active duty rate, ~$2,000-$2,500/month), (4) Books/supplies allowance. Eligibility window = 15 years from service member's death/100% rating date (not 30 years; used to be longer). Choice: Fry OR Post-9/11 GI Bill (not both). Fry sometimes superior for high-cost schools (generous BAH + full tuition). Can transfer unused months to siblings. Valuable program; many dependents underutilize.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use my GI Bill for vocational training or certification programs?",
+    "target_text": "Yes, absolutely. Post-9/11 GI Bill covers approved vocational/technical training: (1) Trade certifications (welding, HVAC, electrical, plumbing, auto repair), (2) Paid apprenticeships (mix of work/training), (3) Professional certifications (nursing, real estate, accounting), (4) Licensing exam preparation. Tuition paid to school; BAH paid monthly if full-time. Many vocational programs = shorter than college (6-12 months typical), allowing faster completion and return to workforce. Verify program approval via VA.gov School Finder. Excellent alternative to 4-year degree; many skilled trades earn $60-100k+ post-certification.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Does the GI Bill cover professional licensing exam preparation?",
+    "target_text": "Partially. Post-9/11 GI Bill covers exam PREPARATION COURSES offered by approved schools: (1) Nursing board (NCLEX) prep, (2) Bar exam prep, (3) Real estate licensing prep, (4) CPA exam prep, etc. School tuition = covered. However: Exam fees (USMLE, Bar exam, licensing fees) = NOT covered by GI Bill. You pay exam fees separately (costs ~$200-$500 per exam typically). Some VA Vocational Rehabilitation & Employment (VR&E) programs cover exam fees for disabled veterans (separate benefit). Check if preparation course is VA-approved before enrollment. Planning: budget exam fees separately.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use my GI Bill for online education courses?",
+    "target_text": "Yes, absolutely. Post-9/11 GI Bill covers approved online degree programs: (1) Online bachelor's degrees, (2) Online master's degrees, (3) Online vocational programs, (4) Hybrid programs (mix of online/in-person). Tuition = covered per enrollment agreement, BAH for online students = 50% of full-time rate (not 100%), Books/supplies = included. Distance education = builds toward benefits eligibility. Online flexibility popular for working military retirees. Verify school's approval via VA.gov School Finder. Part-time online = proportionally reduced BAH. Many retirees complete degrees while working full-time through online programs.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use my GI Bill for an MBA or law school?",
+    "target_text": "Yes. Post-9/11 GI Bill covers graduate degrees including MBA and law school at VA-approved institutions. Covers: Tuition up to public in-state rate (law school: typically $15-20k/year public, $35-45k+ private), BAH at single E-5 rate (graduate rate, ~$2,000-$2,500/month), 36-month total benefit pool for all education. Law school example: 3-year program, tuition cost differential may require Yellow Ribbon supplementation (private schools). Private law schools = Yellow Ribbon recommended to close tuition gap. MBA programs = typically shorter (10-24 months), covered fully at public universities, may need Yellow Ribbon for expensive private schools. Strategic institution selection important.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I transfer part of my GI Bill to my spouse and kids?",
+    "target_text": "Only if approved during service for transfer. If approved: Can divide 36 months among dependents. Example: Give 18 months spouse, 18 months split among children. Each dependent's remaining months = valid for 15 years independently. Example: Spouse uses 12 months early, still has 6 months valid 10 years later. Transfer flexible: can designate all to one dependent or split proportionally. Cannot retroactively add transfers post-retirement. Requires separate enrollment for each dependent. Service member approval = one-time decision (can update who gets how much within original approval limit).",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I lose my GI Bill after 36 months if I don't finish my degree?",
+    "target_text": "No. Your 36-month entitlement remains valid for 15 years, carrying over any unused months. Example: Use 24 months for bachelor's, retain 12 months for later education within 15-year window. Can switch programs/schools and keep remaining entitlement. No penalty for time gaps between enrollments. Once 36 months consumed, benefit expires (unless restored through special circumstances). Can use leftover months for: Master's degree, Additional certifications, Career changes requiring credentials. Strategic planning: manage month usage carefully for multiple education goals.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use leftover GI Bill benefits after graduation?",
+    "target_text": "Yes. Remaining unused months valid within 15-year eligibility window. Leftovers can be used for: (1) Continuing education/professional development, (2) Certifications (professional, trade, licensing), (3) Master's degrees, (4) Career transitions requiring additional credentials, (5) Career-advancement training. Example: Graduate bachelor's (24 of 36 months), pursue MBA (12 months) later. Unused months don't expire until 15-year window closes. Strategic planning: estimate total education needed, pace usage across career. Many veterans use leftover months in 10th-15th year of eligibility window for career changes.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the GI Bill 35-year expiration rule?",
+    "target_text": "This appears outdated/outdated terminology. Current Post-9/11 GI Bill = 15-year eligibility window (not 35 years). Must complete education within 15 years of separation. Example: Discharge 01/2024, benefit expires 01/2039. Older GI Bill versions (pre-9/11) had different timelines. Recommend verifying your specific eligibility window through VA.gov or calling VA Benefits line. If you've been using benefits since old enrollment date, may fall under legacy rules. Request official benefit verification from VA; confirm 15-year window applies to your discharge date.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I pursue multiple degrees using my GI Bill?",
+    "target_text": "Yes. Post-9/11 GI Bill = 36 months total for all education (any combination of multiple degrees). Example: 24-month bachelor's + 12-month master's = 36 months (fully consumed). Can pursue: Bachelor's (4 years average, ~30-36 months tuition), Master's (1-2 years, ~12-24 months tuition). Switch schools, majors, programs; entitlement follows. Once 36 months consumed, benefit terminates (unless restored). Planning critical: estimate total educational needs, pace enrollment strategically. Many pursue bachelor's (24 months) then master's (12 months) within single 36-month benefit pool.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How will adding a dependent affect my military benefits?",
+    "target_text": "Adding a dependent changes: (1) TRICARE coverage status (add to plan, adjust costs if any), (2) Dependent compensation additions (spouse +$27/month, children +$10-15 each), (3) SBP calculation (if elected, recalculate based on new family size), (4) Family-specific benefits eligibility, (5) Tax filing status. Newborn = add within 30 days (birth certificate to DFAS). Adoption = add upon finalization. Remarriage = register marriage, update TRICARE. New stepchildren = requires legal adoption for benefits. Each addition affects monthly compensation. File changes within 30 days. Dependent ID numbers issued for each family member. TRICARE automatically includes new dependents (contact TRICARE if needed).",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What's the cost difference between single and family Tricare plans?",
+    "target_text": "Tricare has NO monthly premiums for retirees (significant benefit vs. civilian insurance). Costs = copays when using healthcare: Tricare Prime single: $0 PCP visit copay, $15-20 specialist. Tricare Prime family: Same copay structure per family member. Tricare Select single/family: $50 deductible/year, then 20% coinsurance (copays). No family-specific premium difference (unlike civilian family plans). Cost-sharing applies per visit, prescription (~$5-25 each). Out-of-pocket maximums apply annually. Gold standard = Tricare Prime (lowest copays), disadvantage = requires PCP + network. Silver standard = Tricare Select (higher copays, more flexibility). Family vs. single = copay structure same per person, not aggregated family deductible.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my spouse's income affect my VA disability rating?",
+    "target_text": "No. VA disability rating percentage = independent of family finances. Spouse income does NOT affect: (1) Disability rating percentage, (2) Compensation amount, (3) Dependent allowance (includes spouse regardless of earnings). VA evaluates disability based solely on: (1) Service connection, (2) Current medical severity. Spouse's $30k or $300k income = same benefits. High-earning spouse doesn't reduce VA pay. However: Combined household income affects: (1) Tax brackets, (2) Means-tested benefits (different programs), (3) VA pension eligibility (income-based, separate from disability). Bottom line: Disability compensation independent of spouse employment/income.",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my family's health coverage if I remarry?",
+    "target_text": "Remarriage changes family status: (1) Former spouse loses TRICARE coverage (unless Special TRICARE beneficiary rules apply, rare), (2) New spouse gains TRICARE coverage immediately, (3) Children maintain TRICARE coverage, (4) Dependent benefits recalculate (spouse allowance applies to new spouse). Timeline: Register marriage, update TRICARE within 30 days. Former spouse coverage = terminates effective divorce date (or remarriage date if that's later). New spouse = eligible for full family benefits (TRICARE, SBP, dependent additions). SBP beneficiary changes require new election for new spouse. No gap in coverage if marriage license obtained quickly post-divorce finalization.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I budget for a family of 4 on my retirement pension?",
+    "target_text": "Planning example (E-5 retirement 20 years = ~$2,500/month): Gross retirement = $2,500. After taxes (~$250) = ~$2,250 net. One spouse makes $50k = ~$3,250/month net. Combined = ~$5,500/month household net. Budget strategy: (1) Maximize TRICARE savings (family coverage = lowest cost health insurance), (2) Leverage dependent benefits (children to age 23), (3) Consider housing costs in BAH areas (if pursuing education), (4) SBP cost = 6.5% ($163/month, significant), (5) Emergency fund = 6 months expenses critical. Four-person family typical expenses: Housing $1,200-$1,500, Food $800-$1,000, Transportation $400-$600, Utilities/Insurance $300-$400, Other $400-$600 = ~$3,100-$4,100/month needed. Spouse working = makes family budget comfortable. Planning = essential.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "At what age do military dependents lose healthcare coverage?",
+    "target_text": "TRICARE dependent age limits: Children = coverage until age 21 (or 23 if full-time student). Unmarried, no dependents of own = required for coverage. Spouse = covered indefinitely (no age limit, but coverage may end if divorce). Disabled children = covered regardless of age (with VA disability determination). Post-age-21 transitions: (1) Full-time student = coverage to age 23 (submit enrollment verification annually), (2) Employer coverage = enroll if available, (3) ACA marketplace = enroll if no employer plan, (4) Parent's employer family plan = often available to age 26 (higher cost than military), (5) Individual plan = own coverage required. Plan ahead: research civilian insurance 6 months before child ages out. Many employers offer dependent coverage to age 26 (better than military TRICARE-only option).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Does my ex-spouse get a portion of my military retirement pension?",
+    "target_text": "Depends on state law + divorce decree: Federal law (USFSPA) allows ex-spouse share if: (1) Marriage lasted 10+ years, (2) Divorce decree awards portion. Payment determination = state family law court (judge decides percentage, typically 25-50%). DFAS pays directly if: (1) Certified divorce decree provided to DFAS, (2) Military account number listed in decree, (3) Specific dollar or percentage amount specified. Without 10-year marriage = ex-spouse entitled to nothing (even if many years married < 10 years). With 10-year marriage = standard community property / equitable division rules apply (state-specific). Update DFAS with certified decree; DFAS adjusts payment split automatically.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do custody changes affect military family benefits?",
+    "target_text": "Custody loss = dependent loses TRICARE coverage immediately. Custody gain = dependent eligible for coverage (enroll in TRICARE). Proof required: Draft/final custody order showing new custody arrangement. Timing: TRICARE updates within 30 days of custody documentation. Cost-sharing = unchanged (percentage not affected, only who's eligible). SBP dependent additions terminate if lose custody (affected by custody terms). Multiple children = custody changes affect which children eligible (some with you, others with ex). Update DFAS + TRICARE promptly when custody changes occur. Remarriage with custody = new family members added/removed per custody terms. Custody agreements critical for benefits coordination.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can my stepchildren use military healthcare benefits?",
+    "target_text": "Stepchildren eligible IF: (1) Legally adopted by military member, OR (2) Biological parent married to military member at time benefit is requested. Stepchildren without adoption = NOT eligible (biological relationship alone insufficient). Adopted stepchildren = eligible like biological children (coverage to age 21/23 if student). Divorce = adopted stepchildren typically lose coverage (unless adoption existed pre-divorce). Documentation required: Adoption decree OR marriage certificate establishing legal relationship. Costs: Same copay structure as biological children, no premium difference. Many stepfamilies don't realize adoption requirement; plan accordingly. Legal adoption = best practice for stepchildren benefits.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can adult children over 21 stay on military health insurance?",
+    "target_text": "Limited eligibility post-age-21: (1) Full-time student = coverage to age 23 (proof required: enrollment verification annually), (2) Disabled with VA determination = covered regardless of age, (3) Unmarried, no dependents of own = required criteria. Full-time student proof = submit enrollment verification to TRICARE. Full-time = 12+ credits (institution-specific, confirm), once drops below full-time coverage terminates. Disabled = VA disability rating required. Once age 23 (or non-full-time) = coverage terminates. Transition options: (1) Employer coverage if available, (2) ACA marketplace, (3) Parent's employer plan (to age 26 typically), (4) Spouse's coverage (if married). Plan 6 months before loss of eligibility.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How are military retirement benefits divided in a divorce?",
+    "target_text": "State law determines split (not federal automatic 50/50): Most states = equitable distribution (fair, not necessarily 50%): Ex-spouse receives percentage IF: (1) 10+ year marriage, (2) State law permits, (3) Divorce decree awards portion. Military retiree retains remainder. Calculation = rank/years at separation \u00d7 awarded percentage. Example: 20-year marriage, $3,000/month pension, judge awards 40% = ex-spouse receives $1,200/month for life. DFAS pays directly per certified court order. Some states = community property (presumption 50% is communal property). Consult divorce attorney familiar with military pensions. Update DFAS with final decree; payment recalculation automatic. Property division separate from pension (house, vehicles, savings = separate considerations).",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I lose military family benefits if my spouse becomes employed?",
+    "target_text": "No. Spouse employment = does NOT affect military family benefits. Spouse earning $30k or $300k = same TRICARE coverage, same dependent benefits (no means test, no offset). Spouse employment income = independent from benefits. Can still claim spouse as dependent for TRICARE. Spouse income affects: (1) Family tax filing status, (2) Combined household income (relevant for other programs), (3) Retirement planning (more household income). Military benefit structure = no spousal income reduction. Spousal employment actually improves household finances. SBP cost continues same regardless of spouse income.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I claim adult children as dependents if they're in college?",
+    "target_text": "Yes, until age 23 if full-time student. Proof required: Enrollment verification submitted annually to TRICARE/DFAS. Requirements: Unmarried (no spouse), no children of own, full-time enrollment (12+ credits typical, institution-specific). Full-time student status = recertified annually; documentation from registrar/school. Once drops below full-time or reaches age 23 = dependent status terminates. Disabled children = covered past age 23 with VA disability rating. Claiming status maintains: TRICARE coverage, Dependent benefits (allowances), Family priority for military services. Cost: Same family plan copay structure. Many retirees claim college-age children (extends coverage).",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my military family benefits if I get a new dependent?",
+    "target_text": "New dependent status changes: (1) Newborn = add to DFAS/DEERS within 30 days (birth certificate required), (2) Adopted child = add upon finalization (adoption decree), (3) New spouse = must register marriage, update TRICARE (marriage certificate + application), (4) Stepchildren = depends on legal adoption (adoption decree required for benefits), (5) Young dependents inherited via custody change = add per custody order. Each addition: (1) TRICARE enrollment updates, (2) SBP recalculation if elected, (3) Dependent allowance additions ($10-15/month per child, $27 spouse), (4) New dependent ID numbers issued. Timeline: File changes within 30 days for seamless coverage. No additional TRICARE cost for dependent additions.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do adopted children have the same military family benefits?",
+    "target_text": "Yes, legally adopted children = same benefits as biological children. Coverage: Full TRICARE eligibility (medical, dental transition, healthcare costs same), Dependent allowances ($10-15/month per child), SBP inclusion (if parent elected SBP), Family benefits identical. Documentation required: Final adoption decree (not preliminary). Adoption date = effective date for benefits. Stepchildren adoption = grants full benefits (many don't pursue). Age limits: Coverage to age 21 (23 if full-time student), disabled child = unlimited age coverage. Cost: Same family plan structure. Many retirees don't realize adoption is key to stepchildren/other relatives benefits; formal legal adoption permits inclusion.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What military family benefits apply if my spouse is not a U.S. citizen?",
+    "target_text": "Non-citizen spouses eligible for: (1) TRICARE coverage (no citizenship requirement), (2) Dependent benefits (spouse allowances), (3) SBP coverage if elected. Possible restrictions: (1) Some installation base access may be limited (security clearance issues), (2) Legal residency status affects eligibility (green card vs. visitor visa), (3) Some family housing may be restricted (overseas bases sometimes). Documentation: Valid residency documentation required for TRICARE enrollment. Benefits structure: Non-citizen spouses = full TRICARE/dependent benefits (family structure); access/installation privileges may vary. Children of non-citizen spouse = eligible same as citizen children. Military marriage benefits = generally inclusive regardless of spouse citizenship (differs from federal/civilian benefits). Confirm specific enrollment requirements with TRICARE.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How does same-sex marriage affect military family benefits?",
+    "target_text": "Same-sex military marriages = full benefits equivalence since 2013. Benefits include: (1) Full TRICARE coverage (spouse coverage identical to opposite-sex), (2) Dependent allowances ($27/month spouse), (3) SBP inheritance rights (if elected), (4) Family housing eligibility, (5) Military ID for spouse/children, (6) All spousal benefits. Documentation: Valid marriage license (recognized federally). State-level marriage = federal recognition for military benefits. No additional requirements; enrollment same as opposite-sex marriage. Children via marriage, adoption, or biological relationship = same coverage. Children of same-sex marriage = TRICARE eligible. Bottom line: Military family benefits = identical regardless of spouse gender. Full spousal benefits apply to same-sex married couples.",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Tricare Select or Tricare Prime - which is better for my situation?",
+    "target_text": "Tricare Prime = managed care (lower cost copays, requires network): PCP required ($0 copay), Specialist copay ($15-20), Network mandatory for discounts, Good for: Frequent medical users, Limited health needs, Prefer continuity. Tricare Select = preferred provider (more flexibility, higher copays): No PCP required (self-refer), Specialist copay ($50-100+), Nationwide network, $50 deductible/year, 20% coinsurance. Better for: Remote areas (less MTF access), Prefer provider choice, Travel-heavy retirees, Specialist-focused users. Coverage identical (both cover same services). Cost calculation: Prime copays lower; Select higher per-visit but more flexible. Best choice = depends on location, healthcare utilization, provider preference. Can switch annually during 60-day open season.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is ACA cheaper than Tricare for my family?",
+    "target_text": "Typically NO - Tricare cheaper alternative: Tricare Prime = lowest cost (copays $0-20 per visit, no monthly premium currently), Tricare Select = moderate cost ($50 deductible, 20% coinsurance, no premium), ACA Marketplace = generally higher (monthly premiums $300-$1,000+ for family, deductibles $1,000-$5,000+). Comparison example (family of 4): Tricare Prime = copays only (~$100-300/month family average), ACA Bronze plan = $600+ monthly premium + $3,000+ deductible = $10,000+/year cost. Advantage Tricare: Nationwide network, military provider access, dental/vision options through FEDVIP, no monthly premium. Keep TRICARE vs. pursuing ACA = financial no-brainer for most military retirees. ACA = backup if TRICARE becomes unavailable (rarely needed).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use VA health care instead of Tricare?",
+    "target_text": "Yes, but context matters: VA healthcare = option for service-connected disabled veterans (free). Tricare = broader coverage (both service-connected and non-service-connected conditions). Strategy options: (1) Use Tricare for primary care, VA for service-connected specialists (some veterans dual-enroll), (2) Use VA exclusively if 50%+ disabled (free comprehensive care), (3) Coordinate care (Tricare primary, VA backup for specific conditions). Note: VA has wait times (4-6 weeks typical for appointments), whereas Tricare MTF often same-week scheduling. Many retirees use primary Tricare (faster access) + VA specialists (deep disability expertise). Both valid; many maintain both enrollments for maximum flexibility.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When do I lose TRICARE eligibility?",
+    "target_text": "Retirees don't typically lose TRICARE (guaranteed for life as earned benefit with very rare exceptions): Exception = federal criminal conviction (deportation removes eligibility). Dependents lose TRICARE: (1) Child reaches age 21 (or 23 if full-time student), (2) Spouse divorced (coverage ends at divorce finalization), (3) Remarriage (ex-spouse loses), (4) Custody loss (child removed from coverage), (5) Death of dependent. Retiree coverage = permanent (earned right). Dependents = watch age limits, custody changes, marital status. Plan transitions timing: Research alternative insurance for aging-out dependents 6 months in advance. TRICARE loss = catastrophic for family if not planned; maintain coverage through age transitions.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What's the cost of psychiatric care under different plans?",
+    "target_text": "Psychiatric care = covered under all TRICARE plans: Tricare Prime: $0 copay (PCP referral required; however, mental health self-refer without referral), $0-20 copay specialist (psychiatrist/psychologist), unlimited sessions, no prior authorization required (typically). Tricare Select: $50 deductible/year, then 20% coinsurance (copay ~$25-75 per visit depending on provider status), unlimited sessions, no prior authorization. Military OneSource: Free 12 sessions/year (external, separate from TRICARE), no copay, immediately accessible. VA: Free comprehensive mental health if rated veteran (service-connected only); includes psychiatry, therapy, meds. Best approach: Use Military OneSource for immediate needs (free), Tricare for ongoing care, VA if service-connected PTSD/mental health. Psychiatric care = well-covered, accessible.",
+    "category": "expense_reduction",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is dental care covered under Tricare Select or Tricare Prime?",
+    "target_text": "No. Neither Tricare Prime nor Tricare Select include dental: Dental address options: (1) FEDVIP dental insurance (~$50-100/month, covers exams, cleanings, major work), (2) Retiree Dental Plan (separate enrollment, varies), (3) Private dental insurance, (4) Direct-pay to dentist (out-of-pocket). FEDVIP = best option for most retirees (enrollment during open season). VA = covers dental only if 100% service-connected disability or special circumstances (very limited). Retirees must budget for dental separately (cleanings $100-300, fillings $200-500, crown $1,000+). Dental = significant gap in TRICARE coverage; plan accordingly. Many retirees defer major dental until after having dental insurance plan.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How much does vision care cost under military health plans?",
+    "target_text": "Vision care costs: Routine exams = $0 copay Tricare Prime, ~$50 Tricare Select (covered). Glasses/contacts = NOT covered by TRICARE (full cost out-of-pocket). FEDVIP Vision Plan supplement (~$30-50/month) covers: Exams ($0), Frames ($200 allowance), Contacts or glasses. VA = covers glasses/contacts if rated 20%+ disability (service-connected vision issues). Best approach: (1) Use Tricare for exams (free/cheap), (2) Enroll FEDVIP for frames/contact allowance, OR (3) Online glasses retailers (cheaper: ~$50-150 per pair). Vision = secondary concern for most retirees; exams preventive (covered), supplies = supplemental cost manageable.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Are prescription drugs covered under all Tricare plans?",
+    "target_text": "Yes, all TRICARE plans cover medications: Tricare Prime: $5-10 copay generic, $25 brand-name, $60 non-formulary (monthly). Tricare Select: $10-20 copay generic, $35 brand-name, $80 non-formulary (monthly), applies after deductible. Mail order: 3-month supply, typically $10-15 copay (mail much cheaper than retail). VA: Free medications if veteran/rated veteran (service-connected conditions). Best strategy: (1) Use mail-order through TRICARE pharmacy (lowest cost), (2) VA for service-connected medication needs, (3) Generic preferred (lowest copays). No separate pharmacy premium (included in TRICARE plan). Medication coverage = comprehensive, accessible, affordable.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I get healthcare for pre-existing conditions after military retirement?",
+    "target_text": "Yes, absolutely. TRICARE covers all conditions with NO exclusion: Pre-existing = covered same as any condition, No waiting period, No exclusion or premium increase for pre-existing, Guaranteed coverage. Conditions covered include: Cancer (prior), Heart disease, Diabetes, Mental health pre-retirement, Injuries pre-retirement, Chronic conditions, etc. No 'pre-existing condition clause' (banned federally). Military retiree coverage = guaranteed issue (cannot deny). Spouse/dependents = also covered without exclusion. VA = additionally covers (free for service-connected conditions). Bottom line: Pre-existing conditions = fully covered post-retirement; no coverage gap.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is mental health or PTSD treatment covered by military health insurance?",
+    "target_text": "Yes, fully covered: PTSD = explicitly covered treatment (therapy, medication, inpatient), Tricare Prime: $0 copay (self-refer, no PCP referral required for mental health), Unlimited sessions, No prior authorization. Tricare Select: $50 deductible, then covered at normal copay rates. VA: Free comprehensive mental health for any veteran; 100% service-connected PTSD specifically included. Military OneSource: 12 free sessions/year (immediate access, confidential, separate from TRICARE). Coverage includes: Individual therapy (psychotherapy, CBT, prolonged exposure therapy), Psychiatry/medication management, Group therapy, Inpatient if medically necessary, Crisis intervention. PTSD = well-resourced benefit; multiple pathways (TRICARE, VA, Military OneSource).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I lose military health benefits if I move out of state?",
+    "target_text": "No. TRICARE covers retirees nationwide: Tricare Prime = available most areas (may need to change network in new state), Tricare Select = available everywhere (nationwide coverage), Copays = same regardless of state. Deductibles = annual (not state-specific). Providers = coordinate with new state network. MTF (military hospital/clinic) access = same (space-available, retiree priority). Move out-of-state freely; benefits continue. Verify Tricare Prime network in new location (may default to Tricare Select if Prime unavailable). Update address with DFAS/TRICARE. TRICARE = national program (uniform federal benefits, not state-dependent).",
+    "category": "tax",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my Tricare when I turn 65 and become eligible for Medicare?",
+    "target_text": "Critical transition at age 65: Mandatory: Enroll in Medicare Parts A & B (no premium Part A usually, Part B ~$165/month), Failure to enroll = lifetime penalties (premium increases 10% per year not enrolled), TRICARE becomes TRICARE for Life = supplemental to Medicare. TRICARE for Life (post-65): Automatic if Medicare A&B enrolled, Covers Medicare coinsurance/deductibles, No monthly premium, Worldwide coverage, Military hospital access. Process: 3 months before 65th birthday, enroll Medicare (Social Security office or Medicare.gov online), TRICARE for Life enrollment automatic (no separate application). Timeline: Enrollment window 3 months before/after 65th birthday (General Enrollment Period). Missing deadline = costly (penalties + coverage gaps). Coordinate timing with physician office; set calendar reminders 6 months early.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I get a specialist referral through military healthcare?",
+    "target_text": "Referral process differs by plan: Tricare Prime: Need PCP referral (requires PCP visit), Request through military clinic or TRICARE Online portal, Processed typically 1-3 days, May need authorization before seeing specialist. Tricare Select: Can self-refer directly to specialist (NO referral required), Direct scheduling with specialist network, Authorization usually automatic (but verify coverage). MTF (military facility) referrals: Within MTF system, automatic routing (no special request needed). Outside network: Contact TRICARE for authorization. Timeline: Specialist appointment scheduling = 4-6 weeks typical after referral (depends on availability). Expedited: Urgent/emergency = same-day/next-day if available. Request referral early if planning specialist care.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the difference between Tricare Prime, Select, and Standard?",
+    "target_text": "Three Tricare plans (Standard no longer fully available; being phased out): Tricare Prime = Managed care: $0 PCP copay, $15-20 specialist, Requires network, Requires PCP, Best for frequent users. Tricare Select = Preferred provider: No PCP required, $50 deductible/year, then 20% coinsurance (~$30-50 typical copay), Nationwide network, Best for flexibility/choice. Tricare Standard = (being phased out for new retirees): Higher deductibles, No network restriction, Being replaced by Tricare Select. Choice: Prime = lower cost, Select = more flexibility. Most new retirees = Select or Prime. Can switch during annual 60-day enrollment (November 4-December 31). Geographic availability varies (Prime not everywhere; Select nationwide).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I switch from Tricare Prime to Tricare Select at any time?",
+    "target_text": "Switch timing: Open Enrollment = November 4 - December 31 annually (free switch), Effective date = January 1st. Outside open enrollment = can switch, but may be limited. Family status changes = special enrollment: Life events (marriage, birth, death, divorce) = 30-90 day window to change. Reason: To accommodate major life changes. Cost: No penalty to switch; immediate effective date for qualifying events. Best practice: Plan switching during annual open season. Outside enrollment window = generally stay in plan until next October (cannot freely switch mid-plan year). Reason change: Sometimes Prime unavailable new location (defaults to Select with explanation). Choose based on anticipated healthcare needs, provider preferences.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the annual out-of-pocket maximum under Tricare Select?",
+    "target_text": "Tricare Select annual out-of-pocket maximum (2026): Retiree only = ~$2,850 (varies annually), Family = ~$5,700 (varies annually), Once reached = plan covers 100% remaining costs for year. Costs counting toward maximum: (1) Deductible ($50 individual, ~$100 family), (2) Copays (specialist, urgent care, etc), (3) Coinsurance (20% out-of-pocket). NOT counting: (1) Excluded services, (2) Out-of-network costs beyond allowable amount. Maximum prevents catastrophic expenses; reassurance for major medical events. After hitting max = rest of treatments year = fully covered. Annual reset = January 1st (counts toward next year's max). Track expenses throughout year via TRICARE portal. Maximum = consumer protection; manage household finances knowing maximum exposure.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I need a referral to see a specialist under Tricare Prime?",
+    "target_text": "Yes, Tricare Prime requires PCP referral for specialist visits: Process: (1) Schedule PCP visit, (2) Request specialist referral, (3) PCP submits referral to TRICARE, (4) Receive authorization (1-3 days typical), (5) Specialist schedules appointment. Exception: Mental health specialists = NO referral required (direct access). Urgent/emergent = may bypass referral (call ahead). Out-of-network: With referral = covered at in-network rates, Without referral = out-of-network costs apply (higher copays). Timeline: Referral process = 1-3 days; specialist appointment scheduling = 4-6 weeks additional. Advance planning: Request referral at PCP visit if anticipating specialist need. Self-referral = not available Tricare Prime (unlike Tricare Select).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use Tricare at overseas military bases?",
+    "target_text": "Yes. Tricare coverage overseas = valid at overseas military treatment facilities: MTF access = available at deployed bases (army, navy, air force hospitals/clinics), Coverage same = copays identical (domestic vs. overseas), Authorization = Tricare still manages authorization. Civilian overseas: TRICARE covers if MTF unavailable, Costs higher (out-of-pocket, then reimbursement process). Dental/vision overseas = limited (coordinate with FEDVIP), Eligible = military bases worldwide (Europe, Pacific, Middle East, etc). Travel planning: Confirm MTF availability in destination country. Passport/military ID = required for base access. Overseas TRICARE = valuable for stationed retirees; less relevant for short visits. Long-term overseas = review specific coverage rules (vary by country).",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What mental health services are covered without a referral?",
+    "target_text": "Mental health = NO referral required (direct access): Tricare Prime: Self-refer directly to psychiatrist, psychologist, therapist (unusual exception to PCP requirement), Unlimited sessions, No prior authorization required (typically), $0 copay. Tricare Select: Self-refer directly to mental health provider, No referral needed, Covered same as other services, Normal copay applies. Military OneSource: Free 12 sessions/year, immediate access, no referral, confidential (not in TRICARE system). VA: Free comprehensive mental health (service-connected veterans), Direct access without referral. Unique benefit: Mental health = specifically accessible without PCP gatekeeping (policy recognizes mental health access barriers). Crisis situation = emergency room access (no referral needed by definition). Mental health = well-supported with multiple entry points.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is substance abuse treatment covered under all Tricare plans?",
+    "target_text": "Yes, covered under all TRICARE plans: Outpatient counseling/therapy = covered, Inpatient rehabilitation = covered if medically necessary (prior authorization required), Medication-assisted treatment (MAT) = covered, Detoxification programs = covered if medically necessary. Copays apply (typically specialist rates: $15-20 range). Prior authorization = recommended (verify coverage before inpatient admission). VA = free substance abuse treatment if veteran (service-connected or not), Often superior VA programs (tailored military population). Insurance coverage: TRICARE covers; recommend using TRICARE first, then VA if needed. Timeline: Access same-day or next-day for emergent (crisis). Confidentiality protected (not flagged in military records). Substance abuse = treatable; multiple resources available.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How much does emergency room coverage cost under different Tricare plans?",
+    "target_text": "Emergency room costs vary by plan: Tricare Prime: $100 copay (emergency room visit), If admitted = copay waived (counts toward hospital admission), Waived if determined non-emergency (policies have exceptions). Tricare Select: $300 copay (emergency room visit), If admitted = copay waived (hospital costs apply separately), Higher copay reflects more flexibility (no require network for emergencies). Urgent Care (different from ER): Tricare Prime = $15-25 copay (typically), Tricare Select = $35-50 copay. Emergency = ambulance transport covered (no copay). Out-of-network emergency = covered same rates if true emergency (TRICARE determines ER status). Planning: ER for life-threatening only (not for routine urgent care). Utilize urgent care clinics for injuries/illnesses not life-threatening (lower copay). Emergency coverage = robust.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Are fertility treatments or IVF covered by military health insurance?",
+    "target_text": "Fertility treatment = covered with limitations: IVF (in-vitro fertilization) = covered (up to 3 cycles typically), Diagnostic testing = covered, Fertility counseling = covered, Medication-assisted (clomiphene, gonadotropins) = covered. Prior authorization = Usually required (verify before starting). Copays = specialist rates apply ($20-25 range Tricare Prime), Deductibles = apply to coinsurance (Tricare Select). Limitations: (1) Age limits (typically under 45), (2) Marriage requirement (sometimes), (3) Prior infertility diagnosis, (4) Covered procedures specified (check specific authorization). Coverage varies: High-cost procedures (surgery, egg retrieval) = approved if medically indicated. VA = minimal fertility coverage (service-connected only typically). Insurance coverage: TRICARE = generous compared to many civilian plans (3 IVF cycles significant benefit). Consult fertility specialist approved by TRICARE for best coverage pathway.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my Tricare coverage if I become incarcerated?",
+    "target_text": "This is a complex and unusual situation: Federal policy = TRICARE coverage generally suspended during incarceration (active suspension rules vary), After release = can reactivate with documentation (discharge papers from incarceration). Reinstatement: Submit request with documentation of release + discharge status, Processing = 30+ days (may need legal assistance), Coverage = typically restored if discharge status allows (honorable discharge required for retiree/dependent status). Dependent coverage = may be complicated if dependent incarcerated (child incarcerated). Contact: DFAS or TRICARE for specific circumstances (unusual situations = case-by-case review). Bottom line: Incarceration = coverage disruption (unlikely scenario for most retirees), but reinstatement possible if appropriate discharge status maintained.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What if I move overseas after military retirement?",
+    "target_text": "Overseas move considerations: TRICARE coverage = valid worldwide (including retired retirees abroad for extended periods), MTF access = available at overseas bases (permanent/temporary installations), Civilian overseas care = covered if MTF unavailable (higher costs, reimbursement process), Prescriptions = accessible if MTF available, Issues: (1) Medicare eligibility (complex overseas for Social Security benefits purposes), (2) Foreign country healthcare system coordination, (3) Prescription regulations (different countries have different drug lists). Documentation: Passport + military ID for base access, Military mailing address = can maintain stateside (arrange mail forwarding). Dental/vision overseas = limited (coordinate with providers), Tax status = still US tax-resident (income tax, estate tax obligations continue). Pre-move: Contact TRICARE for specific overseas coverage rules (vary by country/duty status).",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How does pregnancy and maternity care work under Tricare?",
+    "target_text": "Maternity coverage = comprehensive: Prenatal care = covered (regular OB visits, ultrasounds, lab work), Hospital delivery = covered (facility charges, labor/delivery, postpartum), Obstetrician = covered (specialist copays apply), Complication management = covered (gestational diabetes, preeclampsia, etc.), Newborn care = covered (delivery, neonatal care, pediatrician visits). Process: (1) Notify TRICARE upon pregnancy confirmation, (2) Enroll in prenatal care (OB clinic or civilian OB), (3) Coordinate hospital delivery (in-network preferred), (4) Postpartum care = covered. Copays: Tricare Prime = $0-20 range (OB specialist), Tricare Select = $50 deductible, then 20% coinsurance. Newborn: Automatically covered if delivery within TRICARE (no separate enrollment). Timing: Births within 60 days of retirement = may have coverage coordination (confirm status). Pregnancy = well-covered benefit; plan ahead for military family expansion.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Are cosmetic procedures covered by military health insurance?",
+    "target_text": "Cosmetic procedures = generally NOT covered unless medically necessary: Purely cosmetic (lifts, implants, tummy tucks) = not covered, Medically necessary (scar revision from burn/injury, reconstructive after accident) = may be covered, Reconstructive surgery after medical event (reconstruct after cancer, accident) = covered, Dental cosmetics (whitening, veneers) = not covered (TRICARE dental = function-focused). Determination: TRICARE evaluates whether medically necessary (function-restoring vs. appearance-enhancing). Burn scars = covered (medically important), Cosmetic reduction = not covered. Appeals allowed: If deemed medically necessary (provide medical justification). Bottom line: Cosmetic = out-of-pocket, Medically necessary reconstruction = usually covered. Distinction important for planning plastic surgery.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I use a VA hospital instead of Tricare for major surgery?",
+    "target_text": "Yes, both options available (coordinate timing): VA Hospital surgery: Available if veteran registered with VA (service-connected or eligible), May have wait lists (4-12 weeks typical for non-emergency), No cost (free for service-connected), May require pre-authorization from VA. Tricare surgery: Available immediately (schedule within weeks), Cost = copay system (hospital, anesthesia charges apply), No wait list typically. Strategy: (1) Use Tricare for non-emergency (faster scheduling), (2) Use VA for service-connected surgery (free), (3) Coordinate if using both systems (inform providers of dual-enrollment). Advantage Tricare: Faster access, Immediate scheduling. Advantage VA: Free (if service-connected), Specialized condition experience. Choose based on urgency/copay considerations. Both valid; many retirees use both systems strategically.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What are the deductibles and copays under each Tricare plan?",
+    "target_text": "Tricare Prime (Managed care): No annual deductible, PCP copay = $0, Specialist copay = $15-20, Urgent care = $15-25, Emergency = $100 (waived if admitted), Prescription = $5-60 (generic/brand/non-formulary), Hospital = no separate copay (covered), Annual out-of-pocket max = ~$2,850 (single), ~$5,700 (family). Tricare Select (Preferred provider): Annual deductible = $50 (single), ~$100 (family), Coinsurance = 20% after deductible, Specialist copay = $30-50 typical, Urgent care = $35-50, Emergency = $300, Prescription = $10-80 (generic/brand/non-formulary), Annual out-of-pocket max = ~$2,850 (single), ~$5,700 (family). Cost comparison: Prime cheaper if frequent medical users, Select cheaper if minimal healthcare needs. Choose based on anticipated usage.",
+    "category": "healthcare",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What about Medicaid eligibility for military retirees?",
+    "target_text": "Medicaid eligibility = state-dependent (varies by state): Military retirement income = typically makes retirees INELIGIBLE for Medicaid (income threshold: most states = $1,300-1,500/month limit; retiree pension exceeds), Exception: Some disabled retirees qualify (individual state rules vary), Very low-income retirees (rare) = may qualify in some states. Dependent eligibility: Children may qualify (dependent on family income threshold), Spouse may qualify (income limits), Check with state Medicaid program (eligibility = state-specific). Why relevant: Medicaid = state supplement (covers gaps TRICARE doesn't, though TRICARE comprehensive). Retirees typically: TRICARE (primary), Medicaid (unlikely to qualify), Medicare (age 65+). Bottom line: Medicaid = unlikely for military retirees (income too high), TRICARE sufficient for vast majority. Contact state Medicaid office for specific eligibility determination.",
+    "category": "education",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I elect Survivor Benefit Plan coverage when I retire?",
+    "target_text": "SBP = critical decision with lifelong impact: YES if: (1) Married or plan to marry, (2) Have dependent children, (3) Want spouse/children financially protected post-death. Cost: 6.5% of retirement monthly (roughly $165 for $2,500 pension), Benefit: 55% of retirement goes to survivors for life (spouse receives ~$1,375/month on $2,500 pension). Analysis: 22-year breakeven (cost vs. benefit over time); if live past retirement date + 22 years = SBP pays for itself. Risk without SBP: Family receives $0 upon death (retirement ends). Decision timing: Made at retirement (1-year election window). Lock-in early; missing deadline = no second chance. Recommendation: Married/children = strongly elect; unmarried consider for future marriage.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How much does SBP cost and what are the premium calculations?",
+    "target_text": "SBP cost formula: 6.5% \u00d7 monthly retirement pay = monthly SBP premium (deducted from retirement pay). Example calculations: $2,000/month retirement \u00d7 6.5% = $130/month SBP cost, $3,000/month = $195/month, $4,000/month = $260/month, $5,000/month = $325/month. Cost fixed at 6.5% (percentage doesn't change). Payment: Monthly deduction from retirement pay throughout retiree's lifetime. Upon death: Cost stops; beneficiary receives 55% benefit monthly (no further premium). Years to breakeven: Roughly 22 years (cost paid in reaches benefit threshold). Strategic consideration: Highest cost when youngest (if retired young); lowest cost if married older. Example: Retire at 38 (20-year E-6) = many years of $160/month costs = significant lifetime expense. Retire at 40+ = fewer years of costs = less risk. Cost-benefit = personal decision.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When do I have to make my SBP election?",
+    "target_text": "Critical deadline: Made at retirement; 1-year election window from separation date. Timeline: Separation date = start of window, Separation date +12 months = final deadline. Process: (1) Receive DD Form 2656-1 (SBP election form) before separation, (2) Complete and return within 1 year, (3) DFAS processes election, (4) Premium begins next month. Consequences: Elect = SBP begins (beneficiary protected), Don't elect = NO SBP, dependents receive nothing upon death (cannot retroactively add). Late election (after 12 months): Denied unless exceptional good cause documented (form lost/misdirected, military error). Action required: Don't miss deadline. Mark calendar, contact DFAS if form not received (get copy), sign and return promptly. Missing deadline = catastrophic (family loses lifetime protection for every year of retirement).",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I withdraw from SBP if I receive VA disability compensation?",
+    "target_text": "Limited withdrawal option available: If 50%+ VA disability rating: Can withdraw from SBP (Form DD 2656-2), Allows full retirement pay (no 6.5% deduction), However: Dependents receive nothing upon death (no survivor protection), Strategic consideration: If 50-99% disability = cost-benefit decision (keep SBP for protection OR withdraw for higher pension), If rated 100% = different benefit structure (enhanced SBP options available). Process: File withdrawal form with DFAS, Withdrawal effective next month (deduction stops). Reversal: Cannot re-elect after withdrawal (one-way decision). Decision factors: (1) Age (younger = more years of protection), (2) Family financial need, (3) Dependent age (children need protection), (4) Other family assets. Recommendation: Married/children = keep SBP (protection > 6.5% cost); single/elderly children = withdraw if needed for cash flow.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my SBP coverage if my surviving spouse remarries?",
+    "target_text": "Remarriage typically ends original SBP: Original SBP benefit = terminates upon spouse remarriage (rules vary by election type), Transitional benefit: Some SBP types include 36-month continuation (pays benefit during 3-year transition), After transition = benefit ends (ex-spouse loses SBP). Exception: Previous SBP agreements (executed before rule changes) = may differ. Alternate beneficiary: If designated parent/child as alternate = they become new beneficiary upon spouse remarriage. Strategic planning: SBP election options (spouse-only vs. child-inclusive) affect remarriage impact. Surviving spouse impact: Losing SBP monthly payment significant financial hardship. Recomme action: Surviving spouse = attempt to avoid remarriage during peak financial need (or transition to other income), or plan alternative income if remarriage likely. DFAS clarifies specific rules upon election; understand remarriage impact.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Are Reserve members covered under the same SBP as active duty?",
+    "target_text": "SBP-RC (Reserve Component) = similar but separate program: Eligibility: Reserve/Guard retirees (20-year minimum), Cost: 6.5% (same as active duty), Benefit: 55% (same as active duty), Election timing: Made at retirement (Reserve retirement date, not active duty separation), Coverage: Spouse, children, designate parents. Differences from active duty: (1) Processing may differ (state-specific National Guard), (2) Coordination with CI (Concurrent Retirement & Compensation) complex, (3) Dual service members (active + Reserve) = navigate two SBP systems. Process: Contact your Reserve/Guard retirement section; SBP-RC paperwork slightly different. Importance: Same recommendation = elect to protect family. Action item: Understand which SBP applies (active, Reserve, or both if dual service).",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I name a dependent parent as my SBP beneficiary?",
+    "target_text": "Dependent parent = can be named SBP beneficiary (alternative to spouse/children): Eligibility: Parent must be legitimately dependent (financial support, living with or substantial contribution), Election option: Spouse-child option = standard; parent-only option = alternative. Process: Specify parent as SBP beneficiary on DD Form 2656-1 (election form), Document parent dependent status if questioned. Benefit: 55% of retirement to parent (same as spouse), Continues for parent's lifetime. Strategic use: Single retiree with elderly parent dependent = covers parent financial hardship post-death. Advantage: Protects parent from poverty. Disadvantage: If marry later, cannot retroactively change to spouse (one-time election stand). Decision: Consider life trajectory (marriage plans) before naming parent. Rare option but valid for specific situations.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I elect SBP or choose no coverage for financial reasons?",
+    "target_text": "Financial hardship cases: No coverage option exists (SBP is benefit, not requirement): Default = no SBP (if don't elect), Consequence = family vulnerable post-death. If cannot afford 6.5% cost: (1) Request DFAS review (hardship exception rare but possible), (2) Reduce family coverage (elect child-only instead of spouse + children), (3) Elect reduced benefit amount (lower percentage = lower cost), (4) Build alternative emergency fund for family (savings, insurance). Cost analysis: $130-260/month typical (manageable most military retirees), Alternative insurance: Term life insurance (~$20-50/month for substantial coverage) = cheaper alternative, Can purchase private policy instead of SBP (more flexibility). Recommendation: Challenge to NOT elect = hardship unusual. Evaluate affordability before retirement date.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When should I make my SBP election - during active duty or at retirement?",
+    "target_text": "Election timing = made at retirement, NOT during active duty: Timing: During separation/retirement processing (final week before separation), Not during active duty service, Not months before separation. Why: (1) Based on rank/years at separation (final pay = what determines beneficiary amount), (2) Dependency status at retirement (who is legally dependent), (3) Divorce/marriage status at separation date. Process: (1) Final out-processing meeting = SBP form provided, (2) Completion during last week of service, (3) Return signed form to DFAS immediately. Advance planning: Decide strategy before retirement (married? children? depend on spouse?), Understand options (child-only vs. spouse + children, different cost tiers), Input from spouse recommended. Timing: Don't procrastinate at retirement checkout = critical form; must return immediately.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "At what age do dependent children stop receiving SBP payments?",
+    "target_text": "SBP dependent child age limits: Until age 22 (by default), Extended to age 23 if enrolled full-time college, Unlimited age if disabled (with disability determination). Example: Child age 15 at retiree death = receives SBP until age 22 (~7 years of payments), Child age 20 at death = receives until age 22 (~2 years), College-bound child = if in college, payments continue to 23, Disabled child = eligible indefinitely. Documentation: School enrollment verification required for age 22-23 (annual update), Disability determination required for unlimited (not automatic). Strategic consideration: SBP covers children until independence (age 22-23); spouse protection = lifetime. Surviving parent responsibility: Track ages, submit documentation (school enrollment) to maintain benefits. Child aging-out = payment reduction (when multiple children, calculations change).",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the SBP election deadline when processing my military retirement?",
+    "target_text": "Deadline = same as described in prior answers: 1-year window from separation date. Specific process: (1) Final week of service = SBP form (DD 2656-1) provided during out-processing, (2) Complete form (designate beneficiary, specify coverage option), (3) Submit to DFAS (during out-processing or within 7 days), (4) DFAS confirms receipt. Critical: Don't lose form; request copy if needed. Submit immediately after signing (don't store form 'to deal with later'), Confirmation: Ask DFAS for written confirmation of receipt. Missing deadline = devastating consequence (12-month window non-negotiable). Action plan: Know your decision (yes/no, who is beneficiary) before final out-processing week. Zero flexibility post-deadline.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the maximum SBP annuity amount I can elect?",
+    "target_text": "Maximum SBP annuity = largest amount is 55% of your retirement pay: Example: $4,000 monthly retirement \u00d7 55% = $2,200/month maximum survivor benefit. Limitation: Cannot elect more than current retirement pay (by design), Minimum: Can elect reduced coverage (child-only, lower percentage), Strategic: Full 55% = recommended for most (maximum protection per cost). Calculation basis: Retirement pay at separation date (not projected increases/COLA), COLA increases = applied annually (increases benefit amount), SBP cost = always 6.5% (fixed percentage). Election choice: Full (55%) vs. Reduced (e.g., child-only = different percentage, lower cost). Recommendation: Elect full unless severe financial hardship. Maximum benefit = maximum family security.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I elect less than full SBP to reduce my premiums?",
+    "target_text": "Reduced SBP option available: Types of coverage: (1) Full (55% spouse + all children), (2) Child-only (55% for children only, no spouse), (3) Reduced amount (e.g., 50% instead of 55%), Cost: Reduced coverage = lower 6.5% cost (proportional). Example: Child-only = reduces cost ~50% (only child beneficiaries, not spouse), Alternate calculation: 50% coverage = reduces cost to ~3.25% (half standard). Strategic use: (1) Unmarried = child-only option (focus protection), (2) Younger children = larger benefit protection, (3) Older children = smaller child-only coverage, (4) Financial hardship = reduce to manage cash flow. Tradeoff: Lower cost = lower family protection. Decision: Balance cost against family financial security needs. File election option choice on DD 2656-1.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my SBP if I die before receiving my first pension payment?",
+    "target_text": "Pre-first-payment death scenario (rare but possible): Eligibility = SBP benefit still owed to designated beneficiary, Calculation = accrued from effective date (first day of month after separation), Lump sum payment = beneficiary receives accrued benefit amount, Example: Separate 15 JUN, effective 01 JUL, die 20 JUL = beneficiary receives ~3-week accrued benefit payment. Consequence: Family receives payment despite retiree receiving no checks (benefit protects dependents), Documentation: Beneficiary provides death certificate + proof of relationship, DFAS processes payment. Bottom line: Pre-first-payment death doesn't disqualify SBP; family eligible for earned benefit. Estate/beneficiary receives payment.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can a former spouse challenge my SBP beneficiary selection?",
+    "target_text": "Beneficiary challenge = possible in limited circumstances: Divorce decree may contest: If ex-spouse awarded SBP portion via court order, Divorce decree = legal document governing SBP designation, Ex-spouse recourse = court enforcement (modification case), Challenge process: Ex-spouse files court motion (family law court), DFAS follows court order (honor divorce decree if properly documented). Retiree protection: If no SBP awarded ex-spouse = your designation stands, Divorce decree must specifically address SBP, Court order = controlling document. Prevention: In divorce proceedings, clearly specify whether ex-spouse gets SBP or not (don't default). Action: Provide DFAS with final divorce decree (all supporting docs), DFAS implement decree properly. Ex-spouse challenge = only valid if court-ordered SBP share.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is there a 'break-even' point where SBP stops paying for itself?",
+    "target_text": "Break-even longevity analysis: Cost vs. Benefit calculation: Assume $3,000/month retirement, SBP cost = $195/month, Survivor benefit if die = $1,650/month, Breakeven = roughly 22 years post-retirement (cost paid in roughly equals benefit threshold). Example: Retire at 42, breakeven at age 64; if live past 64 = SBP 'paid for itself', Younger retirement = longer payoff period, Older retirement = shorter payoff. Strategic consideration: (1) Life expectancy assessment (health, family longevity), (2) Age at retirement, (3) Family dependent needs, (4) Alternative assets. Longevity trend: Military retirees living well past breakeven (average 30+ years post-retirement), therefore SBP generally excellent value. Analysis: If live long (likely), SBP = best benefit dollar spent. Not a true 'break-even' in actuarial sense (benefit continues lifetime, protection beyond cost).",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to SBP if my beneficiary dies before me?",
+    "target_text": "Beneficiary pre-death scenario: Consequences = depend on SBP election type: (1) Spouse dies = if only spouse beneficiary, SBP terminates (no further benefit), Alternate coverage: If child-inclusive (children also beneficiaries) = payments shift to children, (2) Child dies = if multiple children, payments adjust proportionally. Survivor update: Contact DFAS with death certificate, Request SBP modification (if maintaining coverage), Payment adjustment = processed within 30 days. Strategy: If primary beneficiary dies = can update beneficiary (contact DFAS), Cannot recover past payments (if beneficiary already received them), Remarriage: If spouse dies then surviving spouse remarries = affects coverage. Bottom line: Beneficiary death = requires action (update designation), or SBP terminates if no alternate beneficiary.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I change my SBP beneficiary after I retire?",
+    "target_text": "Limited post-retirement changes: Standard rule = SBP election locks in at retirement (cannot change beneficiary after), Exception: Major life events = request modification: (1) Spouse death = designate alternate, (2) Remarriage = update to new spouse (with spouse concurrence), (3) Children aging out = document age changes, (4) Custody changes = update eligible children. Process: File SBP modification request (contact DFAS), Provide documentation (death certificate, marriage license, custody order), DFAS reviews, revises payment if applicable. Limitations: Cannot remove spouse without spouse agreement (unless divorced/deceased), Cannot increase benefit amount (locked at election), Can reduce if allowed (child-only option). Bottom line: Beneficiary = locked in unless life event documented. Plan beneficiary designation carefully at retirement; limited flexibility post-retirement.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is my SBP payment taxable as income?",
+    "target_text": "SBP payment tax status = federally taxable (depends on beneficiary): Survivor receives SBP = ordinary income taxed as beneficiary's income (not tax-free like retiree's military pension for many retirees), Example: Surviving spouse receives $1,500/month SBP = taxable income on spouse's tax return (potential tax liability), Federal tax withholding = not automatically withheld (survivor may owe tax at filing), State tax = varies by state (some tax-exempt, others taxable). Retiree pays SBP: SBP cost (6.5%) deducted pre-tax from military pension (pension item itself federally taxed), Tax impact: Retiree federal taxes on gross pension amount (SBP cost doesn't reduce taxable gross). Survivor implication: SBP = taxable income for survivor (example: $18,000 annual benefit = taxable), Planning: Survivor should estimate tax liability; may need to set aside or request withholding. Distinction: Military pension (retiree) = federally taxed; SBP (survivor) = federally taxed as separate income.",
+    "category": "survivor_benefits",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What if I don't find a civilian job immediately after separation?",
+    "target_text": "Timeline flexibility: No requirement to find job immediately; retirement pay = independent: Military retirement = guaranteed income regardless employment, No job deadline = no benefit reduction if unemployed, Gap period = financial hardship manageable (live on pension). Options: (1) Take time to job search (no pressure), (2) Pursue education (GI Bill available), (3) Freelance/contract work (flexibility), (4) Caregiving (family responsibilities). Financial planning: Budget retirement pension alone (months 1-3), Spouse employment = primary household income if available, Emergency fund critical (cover gap period). Timeline: Take 6-12 months if needed (job search doesn't affect benefits), No urgency unless financial hardship. Advantage: Military retirement = financial safety net, enables strategic job search (not desperate acceptance).",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I wait 6 months before starting my job search?",
+    "target_text": "Yes, no timeline on job search: Military retirement = income sufficient to delay employment, 6-month delay = no benefit reduction, No deadline for civilian employment, Strategy: (1) Separation buffer = adjust to civilian life (1-3 months transition), (2) Job market research = identify target roles/fields, (3) Resume/interview prep (2-3 months), (4) Active search (months 3-6+). Financial runway: Retirement pension alone = covers many  retiree households if minimal debt, Spouse employment = boosts household income, Delay job start = possible if household budget planmed. Recommendation: Use initial months for self-assessment (what civilian career fits military background?), avoid rushing bad job decisions. Transition time = valuable (burnout prevention, family adjustment). Job market doesn't wait; active search by month 4-6 typical.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How long can I live on my military pension alone?",
+    "target_text": "Pension sustainability analysis: Example: $2,500/month retirement pension (no spouse income), Average family expenses: Housing $1,200, Food/utilities $600, Transportation $300, Other $400 = ~$2,500/month needed. Calculation: Pension covers basic living only (no luxury), Extended duration: Can sustain indefinitely on pension alone (it's guaranteed income), Sustainability: Depends on: (1) Household expenses, (2) Debt level (mortgage, car payments), (3) No major emergencies. Stress test: No job = pension continues (safety net), 12+ months unemployment possible if expenses controlled. Planning: Assess household budget vs. pension income, Identify expense reduction if needed (no job = tighten budget), Spouse income essential for comfortable standard of living, Emergency fund = critical for 3-6 month buffer. Bottom line: Pension = sustainable month-to-month indefinitely, quality of life = varies with household expenses.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What if I delay claiming my VA disability benefits?",
+    "target_text": "Delay impact analysis: Claim timing affects effective date: Early claim (at separation) = effective date closer to separation (more back pay if approved later), Late claim = effective date later (less back pay potential), Example: Claim at separation (01/2024), approved 06/2024 = 5 months back pay, Claim at 01/2025, approved 06/2025 = still 5 months back pay but 12 months later start). Financial impact: Delayed claim = missed back pay opportunity, Delay reasoning: (1) Unsure of service-connection, (2) Collecting civilian employment (fear of claim complications), (3) Stigma (addressing slowly), (4) Information uncertainty. Recommendation: File early (within 1 year separation) = capture earliest effective date, No disadvantage to filing (can always decline if awarded), Potential lump-sum back pay = valuable (typically 4-6 month average). Planning: Gather evidence ready; file within 6 months of separation (optimal timing).",
+    "category": "disability",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When should I apply for my retirement pension?",
+    "target_text": "Application process: Military retirement = automatic (no application required to BEGIN), DFAS processes automatically post-separation. However: Enrollment steps (not application): (1) Ensure direct deposit banking info on file, (2) Verify address for tax forms, (3) Confirm beneficiary (SBP, life insurance), (4) Tax withholding (W-4 settings). Action timing: During final week of service = handle enrollment items (not optional applications), Registration: Enroll via military finance office final out-processing, DFAS = initiates payment automatically, First check deposits ~7-14 days post-separation (direct deposit). What you must do: (1) Sign SBP election form (if elected), (2) Verify correct banking (direct deposit), (3) Confirm address, (4) W-4 tax settings. No separate 'pension application' needed (automated), but enrollment activities = required.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When does my military pension start after I retire?",
+    "target_text": "Pension effective date = first day of month AFTER separation: Example: Separate 15 JUN = pension effective 01 JUL (not retroactive to 15 JUN), Separation end-of-month (30 JUN) = pension effective 01 JUL same month, Calendar month precision: No partial-month pension (don't get paid for days already served in active duty), First payment: Deposited 5-7 business days after effective date (~1 week into first pension month), Timeline: Separate 15 JUN \u2192 pension effective 01 JUL \u2192 first payment deposits ~ 07 JUL, Cash flow: Gap period (15-30 JUN) unpaid; plan finances accordingly, Confirm date: Ask DFAS for written confirmation of effective date (avoids surprises).",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do I have to pay taxes on my military retirement pension?",
+    "target_text": "Tax status: Military retirement = FEDERALLY TAXABLE (important distinction): Federal income tax = withheld from pension monthly, State tax = varies by state (some exempt military retirement, others fully taxable), FICA = not withheld (already paid during service), Withholding amount = controlled by W-4 settings (you determine amount). Tax planning: (1) Assess total income (pension + spouse + VA disability), (2) Determine federal bracket, (3) Set W-4 to minimize refund/penalties, (4) State tax planning (residency status affects state taxes), (5) Quarterly estimated taxes (may be needed if underpaying). Tax forms: Receive 1099-R annually (January), Tax deadline: File by 15 APR (or extension), Hiring CPA: Recommended for optimization (taxes complex with multiple income streams). Bottom line: Military pension = federally taxable, state varies, plan withholding accordingly.",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How much notice do I need to give before military separation?",
+    "target_text": "Advance notice requirement: Varies by branch/rank: Officers = typically 30-60 days notice required (check branch regulations), Enlisted = varies (30 days typical, check command), Notice format = written request to command, Flexibility: Once approved = separation date locked (limited changes), Emergency: Command may accelerate separation (early out) if needed, Command discretion: Approval of notice = required (not guaranteed for all dates requested). Process: (1) Verify separation policy (ask HR/career counselor), (2) Formal request to commanding officer, (3) Await approval (1-3 weeks typical), (4) Confirmed separation date = provided in writing. Planning: Notify command as soon as decision made (don't surprise command), Timing: Allow 30-60 days from notice to actual separation, If earlier separation needed = request early out (may not be granted, depends on needs of service).",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens to my military ID after I retire?",
+    "target_text": "Military ID transformation: Active duty ID = expires (no longer valid), Retiree ID card = issued automatically (different ID number): Timing: Receive retiree ID within 2-4 weeks post-separation, Temporary access: Active duty ID valid through separation date (use for final purchases/benefits), New ID usage: Base access, commissary, exchange, hospital/clinic privileges. DEERS registration: Automatic updated (active duty \u2192 retiree status), Family IDs = also updated (new card numbers), Replacement: Lost ID replaced at military ID office (like active duty), Lifetime benefit: Retiree ID = valid for life (no expiration typically), Commissary/exchange: Access continues with retiree ID (lifetime privilege). Process: During final out-processing = request retiree ID (may receive same day or mailed), No action required besides requesting if not offered.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Will I lose my military benefits immediately after separation?",
+    "target_text": "Benefit continuity = excellent news: TRICARE coverage = continues automatically (issued retiree TRICARE on separation date), Military ID = transforms to retiree ID (no gap), Commissary/exchange = access continues (retiree privilege), Military retirement = begins next month (no gap), VA benefits = registration transfers seamlessly. No gaps: Military retirement pension begins 01 JUL (if separate mid-June), TRICARE active immediately upon separation, ID card issued within 2-4 weeks (temporary access), All benefits = continuous (not interrupted). Advantages: No enrollment deadlines (automatic transition), No coverage gaps, No benefit reductions. Action: Update address, confirm banking (direct deposit), understand new TRICARE ID usage. Transition = smooth (military-to-retirement).",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I defer my military pension payments for 5 years?",
+    "target_text": "Deferral option = NOT available: Military retirement = commences automatically at separation (no choice), Cannot defer to later date (e.g., push pension to age 50 if retire at 42), Forced commencement: Retirement effective date = mandatory (first month after separation), No control over start date. Strategic consideration: Can continue working (military retiree can work full-time), Pension starts regardless = net income simply adds to employment, Cannot 'pause' pension (e.g., banking 5 years' worth for future), Pension grows through COLA = annual increases only (no interest/growth if deferred). Bottom line: Military pension = begins automatically, no deferral option (unlike civilian Social Security). Understand: Retirement begins month you separate, plan accordingly.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What is the final payment for a military retiree?",
+    "target_text": "Final/terminal payment: Military retirement = indefinite (continues until death), Death event = pension terminates (no final payment typically), Exception: Accrued balance = if death occurs before monthly payment issued (rare), Example: Receive pension checks until death; month of death = final payment (partial based on death date), SBP survivors = receive ongoing benefit (55% of retiree's original pension, not final lump sum).",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do leap years affect military retirement pay calculations?",
+    "target_text": "Leap year impact = minimal: Military retirement = monthly, not daily (leap year = day-counting non-issue). Calculation basis: Years of service = counted by service completion dates (Jan 1 \u2192 Jan 1 annual), Leap day (Feb 29) = standard calendar day (no special calculation), Pension payment = monthly (Feb = 28 days in most years; Feb leap = 29 days, but monthly payment amount same regardless). Conclusion: Leap years = no impact on retirement pay calculations (monthly payment structure), Calendar precision = non-factor. Bottom line: Don't overthink; pension = fixed monthly amount, leap years irrelevant.",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I backdate my military retirement to an earlier date?",
+    "target_text": "Backdating = not possible: Retirement effective date = locked to actual separation date (cannot change retroactively), Example: Separate 01 JUN, cannot request effective date of 01 MAY (earlier month), First pension payment: Effective first day of month AFTER separation (mandatory), No flexibility: Cannot choose later effective date (retirement must commence month after separation), Appeal/exception: No formal process for changing effective date (administrative requirement). Bottom line: Effective date = non-negotiable (locked by separation date), Plan finances knowing pension starts next calendar month from separation.",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What are the key dates I need to know for military retirement?",
+    "target_text": "Critical timeline dates: (1) Separation date = last active duty day (SBP election window starts), (2) Retirement effective date = first day of month after separation (pension begins), (3) First pension payment date = ~7-14 days after effective date (direct deposit or check), (4) First tax form (1099-R) = 31 JAN next year, (5) SBP election deadline = separation date + 365 days (final day to elect), (6) Medicare eligibility = age 65 (15 years post-typical 20-year retirement), (7) Retiree ID arrival = 2-4 weeks post-separation, (8) TRICARE-for-Life transition = age 65 (mandatory Medicare), Calendar these dates: SBP deadline (critical), Tax form receipt (planning), ID arrival (commissary use), Pension effective date (budget planning). Confirmation: DFAS provides written confirmation of key dates (request if unclear).",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How long does it take to process my military retirement paperwork?",
+    "target_text": "Process timeline: Typical duration = 2-4 weeks from separation date to complete processing: (1) Out-processing completion = 1-3 days (final processing at command), (2) DFAS receives paperwork = 1 week (mail/system transit), (3) DFAS processing = 1-2 weeks (enrollment, verification), (4) First pension payment = 10-17 days post-separation (DFAS processing + bank deposit), Factors affecting timeline: (1) Complete paperwork submission (missing items = delays), (2) Correct banking info on file (prevents reprocessing), (3) DFAS workload (volume affects speed), (4) Address changes (mail delays paperwork), Confirmation: Track status via DFAS online portal (estimated completion date visible), Retiree ID: Arrives separately (~2-4 weeks, mail-dependent). Planning: Assume 3 weeks for complete paperwork; first pension month ~week 3. No urgency in most cases; standard process fast.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "When should I notify my command of my retirement date?",
+    "target_text": "Notification timing: As soon as decision confirmed (not months before): Process: (1) Make decision to retire, (2) Immediately notify chain of command (verbal + written), (3) Request official separation date approval (command approval required), (4) Typical notice = 30-60 days advance (branch-specific), (5) Provide final out-processing date in writing. Command obligation: Must approve timeline (unless emergency separation), Flexibility: Command discretion in approval (not guaranteed immediate request), Strategic timing: (1) Announce separation early enough to plan replacement (shows professional consideration), (2) But not 6+ months early (command may remove from future assignments/mobility), Best approach: Notify 2-3 months in advance (balanced notice), Formal request: Through proper chain of command (not email or casual mention). Documentation: Written request = preferred (dated, signatures), confirmation email acceptable. Protocol: Follow command procedures; likely request = honored if notice reasonable.",
+    "category": "timeline",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What happens if I change my mind about my retirement date?",
+    "target_text": "Reconsideration window = before separation date (after = difficult): Pre-separation change: (1) Notify command immediately (verbal + written), (2) Request cancellation of retirement (approval required), (3) Command may decline (especially if time-sensitive assignments affected), (4) Likely approval if far enough advance (~1 month+). After separation: Cannot un-retire (separation finalized); would require re-enlistment (rarely approved for same rank/years), Financial impact: If already receiving pension, cannot reverse easily (estate/legal complexity), Timing critical: If uncertain, request delay before final separation date. Strategy: Don't separate if ambivalent (major life decision), Use transition window to confirm decision quality, Counsel: Speak with career counselor about decision certainty. Bottom line: Pre-retirement change = possible (command approval needed), Post-retirement reversal = administratively very difficult.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Is a $65,000 job offer enough to cover my family expenses?",
+    "target_text": "Job offer evaluation: $65,000 salary analysis: Gross = $65,000, Federal taxes (~12%) = $7,800 net reduction, FICA (~7.65%) = $4,973 net reduction, State/local taxes (varies) = $1,000-$3,000, Net income approximately $48,000-$50,000 annually = ~$4,000-$4,167/month. Family budget assessment: Housing $1,200-$1,500 (rent/mortgage), Food/groceries $600-$800, Utilities/internet $250-$350, Transportation/car $400-$600, Insurance $200-$300, Childcare (if applicable) $800-$1,500, Other expenses $300-$400. Total monthly need = $3,750-$5,550. Combined household income: Job $4,000/month + retirement $2,500/month = $6,500/month gross household, After $65k job taxes = $4,000/month net + $2,500 retirement = $6,500 net household. Affordability: $65k job = sufficient for family of 4 ($6,500 combined household income covers ~$3,750-$5,550 budget). Conclusion: YES, reasonable family coverage; no financial stress typical. Bonus: TRICARE healthcare = covered (military benefit, no additional cost).",
+    "category": "family",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I compare a $50k civilian job against my pension?",
+    "target_text": "Comparison framework: $50k civilian job: Gross = $50,000, Net (after taxes) = ~$38,000-$40,000 annually, Translate to monthly = ~$3,166-$3,333. Military pension: $2,500/month (example), ~$30,000 annually. Combined income analysis: Job + pension = $5,666-$5,833/month household. Job-only income = $3,166-$3,333/month (insufficient alone for 4-person family), Pension provides = floor income (guarantees ~$30k baseline), Job adds = $19k-$20k net additional (20k total household ~$50k-$55k annually). Benefits consideration: Job health insurance vs. TRICARE (TRICARE superior/cheaper), 401k matching (civilian) vs. TSP (military, not available post-retirement), Paid time off (civilian benefit), Military retiree benefits continue (commissary, exchange, ID), Pension stability: Job can be lost; pension = guaranteed for life. Financial advantage: $50k job + pension = stable combined income. Recommendation: Accept job if fits career goals (pension = financial safety net).",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "What if my new job salary is lower than my pension?",
+    "target_text": "Salary below pension scenario: Example: Pension $2,500/month, job offer $40,000/year = $3,333/month gross. After taxes = ~$2,500 net (barely above pension), Plus pension = $5,000/month combined. Financial decision: Job barely adds net income (taxes eat most of salary), Combined household = adequate for family, Career advancement: If job offers: (1) Better benefits (health, 401k match), (2) Career growth (path to higher salary), (3) Fulfillment (non-financial), (4) Location advantage (close to family), May justify. Alternatively: Job search more aggressively for $60k+ position (larger net gain). Strategy: Use pension as buffer (accept $40-50k if job has career trajectory), Don't settle long-term (plan for promotions/advancement), Timeline: Give job 2-3 years to grow into higher title/pay. Financial reality: Pension = floor (enables taking strategic job despite lower immediate salary). Recommendation: Evaluate career potential, not just starting salary.",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I take the $70k job if I get offered more after a few months?",
+    "target_text": "Job offer timing dilemma: Current offer: $70,000 (bird in hand), Future offer: Unknown potential (bush rumor), Decision framework: (1) Is future offer confirmed (written)? If verbal/rumor = too uncertain, (2) Company track record (do they promote/raise?), (3) Industry timing (jobs available rest of year?). Risk analysis: Accepting $70k = secure employment, Declining for potential = career risk (future offer may not materialize), Current job market timing: If competitive, $70k = reasonable (don't pass up), If abundant jobs = wait for better offer (jobs not scarce). Strategy: (1) Negotiate $70k higher (counter at $75k+), (2) Request written clarification re: future raise timing, (3) Ask about promotion timeline (when $80k possible?), (4) Accept $70k + aggressive resume (plan internal shift in 18-24 months). Professional advice: Don't jump jobs frequently (resume 'job hopper' label hurts), Balance current security against future uncertainty. Recommendation: Take $70k, negotiate internally for $75k+ in year 1, if future $80k+ emerges organically, consider move then.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How does relocating for a job affect my benefits?",
+    "target_text": "Relocation impact on benefits: Military retirement: Not affected by move (pension continues nationwide), TRICARE: Continues nationwide (may change network/plan if Prime unavailable), State taxes: May change (different state = different tax treatment), Residency: New state residency = can affect military retiree tax treatment (some states offer military retirement tax breaks), Commissary/exchange: Access continues (military system national), Military ID: Valid everywhere. Advantages: Moving doesn't reduce benefits, Potential tax savings (move to military retirement-friendly state: TX, FL, SC exempt), Disadvantages: Cost of relocation (moving expenses $5k-$15k typical), New area adjustment (community, schools, housing costs), Dependent impact (if children, school transition), Financial analysis: New job salary increase should exceed relocation costs, Tax savings may offset (if moving to tax-free state), Long-term: 2-3 year commitment recommended to recoup moving costs. Strategy: Negotiate relocation package (new employer covers costs common), Confirm TRICARE coverage in new state (rare issue), Consider cost of living (relocation to expensive city = income needs adjustment). Recommendation: Relocation + salar increase = good financial decision; evaluate total package (pay + relocation assistance).",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I compare civilian 401k matching to military TSP?",
+    "target_text": "Civilian 401k vs. Military TSP: TSP (Thrift Savings Plan): (1) Lower costs (0.05% expense ratio, ultra-low fees), (2) Five investment options (simple index portfolios), (3) Military matching (up to 5% max in active duty), (4) Post-retirement: Cannot contribute (military-only benefit), Civilian 401k: (1) Higher costs (0.5-1.5% expense ratios typical), (2) Broader investment options, (3) Employer matching (varies: 3-6% typical), (4) Post-retirement: Can contribute (if still employed), TSP at retirement: (1) Can withdraw via TSP Loan Program, (2) Can keep TSP invested (no withdrawal requirement until age 70), (3) Low-cost long-term investment. Comparison: TSP superior if maximize military matching (free money), Civilian 401k if employer match is generous (5%+ match). Post-retirement job: Civilian 401k likely (new employer plan), TSP can run parallel (low-cost holdings). Strategy: (1) Maximize TSP in military (free military match), (2) Civilian job: Evaluate 401k match (if 5%+ match, prioritize), (3) Both if possible (max workplace retirement savings). Recommendation: Don't ignore civilian 401k match (free money), but TSP superior cost structure if similar match.",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Do contract positions offer the same benefits as W2 jobs?",
+    "target_text": "Contract vs. W2 comparison: W2 position (employee): (1) Health insurance (employer-sponsored), (2) 401k + match (employee-funded, employer match), (3) Paid time off (vacation, sick days), (4) Unemployment insurance, (5) Workers' compensation, (6) Retirement plan (vesting, long-term), Contract position (1099/contractor): (1) No health insurance (must obtain individual/ACA), (2) No 401k/matching (can open Solo 401k or SEP-IRA), (3) No paid time off (self-funded time), (4) No unemployment insurance (contract loss = no benefits), (5) No workers' comp (own responsibility), (6) No employer retirement, Benefits comparison: W2 = comprehensive benefits package (~25-35% of salary value), Contract = minimal benefits (responsibility on contractor). Financial calculation: Contract job $75k = ~$56k net (after self-employment tax ~15%), W2 job $60k = ~$45k net after tax + health/401k, Add health insurance cost: Contract must pay $8k-$12k/year (health insurance), = $44k-$48k net, Effectively = W2 job lower pay more beneficial. Strategy: Contract position requires $85k-$95k to match W2 $60k package, Use TRICARE (retiree) = advantage (no health insurance cost for contract job), Can max Solo 401k (self-funded retirement). Recommendation: Contract = acceptable if 30-40% higher salary (to offset missing benefits), TRICARE = huge advantage (saves $8k-$12k insurance cost).",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I keep military benefits with a remote job?",
+    "target_text": "Remote work impact: Military benefits: Remote location = doesn't affect benefits, TRICARE: Valid nationwide (remote work = still covered), Commissary/exchange: Requires base access (remote work doesn't provide base location access), Military ID: Valid for remote work (doesn't impact benefit), State tax treatment: Remote work from different state = state tax consequences (may apply state taxes even if company out-of-state), Advantages: Remote job + military retiree = excellent combination (flexibility, location independence, benefits intact), Disadvantage: May not have base access (living far from military installation), Tax consideration: Remote work from Texas (no income tax) = tax advantage, Remote work from California (income tax) = tax disadvantage. Strategy: (1) Confirm TRICARE network in remote work location (nationwide, usually fine), (2) State tax planning (understand remote work state tax implications), (3) Base access (if live away from base, commissary/exchange access limited), (4) Email job for military benefits questions (some have military retiree-friendly policies). Recommendation: Remote job excellent for military retirees (flexibility), taxes main consideration (not benefits).",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I negotiate severance when leaving a military contractor job?",
+    "target_text": "Military contractor job severance: Typical severance position: (1) Government contractor (DoD-related work), (2) Severance package = depends on contract type/rank. Negotiation factors: (1) Position level (higher rank = typically larger severance), (2) Company policy (some contractors have formalized severance), (3) Project loss/downsizing (if due to contract loss, severance likely), (4) Your leverage (hard-to-replace skills = more leverage). Negotiation approach: (1) Understand company severance policy (ask HR, review handbook), (2) Benchmark: 1 week per year service typical (e.g., 5 years = 5 weeks), (3) Propose if absent: 'Given my role/value, is severance available?', (4) Justify: Cite tenure, accomplishments, market conditions, Advance request: If anticipating departure, request severance negotiation at exit, Not always available: Some positions/companies = no severance (contractor positions less protected than W2), Legal: Severance = negotiable (not guaranteed unless contractually promised), Timing: Better negotiated before departure announcement (after = less leverage). Recommendation: Request severance at exit; contractor positions = less protected than civilian, but negotiation worth attempt.",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I take a 1-year contract or permanent position after retirement?",
+    "target_text": "Contract vs. Permanent decision: 1-year contract: (1) Flexibility (end after 1 year, explore other options), (2) Higher hourly rate (3-5% higher typical), (3) No long-term commitment (exit strategy), (4) Limited benefits (no health insurance), (5) Income uncertainty (may not renew). Permanent position: (1) Stability (presumably long-term), (2) Benefits (health insurance, 401k match), (3) Career growth (promotion path), (4) Income certainty (less likely to lose suddenly), (5) Time investment (stay with organization, advancement takes years). Financial comparison: 1-year contract $75k = attractive short-term, Permanent $65k + benefits = longer-term financial security. Strategic decision: (1) Seek permanent (prefer long-term if good fit), (2) Accept contract if: (a) Testing new industry/skill, (b) Temporary income boost, (c) Flexible schedule needed, (d) Prefer work-life balance over career advancement. Advantage military retirees: Pension provides floor (can take lower-paying permanent with stability), Can afford contract risk (if contract ends, pension covers gap). Recommendation: 1-year contract if exploring/testing career; permanent if found career fit (long-term value).",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I collect my military pension while working full-time?",
+    "target_text": "Work + pension: Yes, absolutely no restriction: Military retirement: Paid regardless of employment status, Can work full-time + collect pension simultaneously, No income limit (can earn $50k or $500k), Pension continues indefinitely. Tax implications: (1) Both incomes federally taxed, (2) Combined income may push higher tax bracket, (3) No reduction/penalty for high job income. Strategic advantage: Pension = financial safety net (enables taking lower-paid job for fulfillment), Can pursue passion/calling (pension covers baseline), Military retirement income + job income = excellent household financial position. Example: $2,500 pension + $75k job = $6,500 monthly household (very comfortable), Benefit: Maximize earnings without loss of pension. Recommendation: Yes, collect pension + work full-time (no disadvantage, excellent financial position).",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How does a government contracting job affect my military benefits?",
+    "target_text": "Government contractor employment: Military benefits: NOT affected by DoD contractor job, TRICARE: Continues (employer contractor status irrelevant), Military retirement: Eligible for both government salary + military pension (no offset), Federal employment: Can trigger 'government pension offset' (different benefit, not relevant for military retirement), Advantage: Military retirees = preferred contractors (security clearance often already held, military background valued), Disadvantage: Clearance reinvestigation (if you haven't worked government contracting, may undergo background check), Recommendations: (1) Register for job sites (clearance.jobs, government contractor boards), (2) Military background = valuable asset (highlight in resume), (3) Clearance status important (if inactive, may be re-investigated), (4) Benefits package: Evaluate contractor 401k vs. TSP, contractor health insurance vs. TRICARE. Conclusion: Government contracting = excellent career path for military retirees, benefits intact, clearance = valuable asset.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Should I negotiate the job offer or accept the first salary?",
+    "target_text": "Salary negotiation strategy: Generally: YES, negotiate (first offer often 10-20% low): Process: (1) Receive offer, (2) Request 24-48 hours to consider, (3) Research market rate (Glassdoor, PayScale), (4) Propose counter-offer (+5-15% typical), (5) Justify with: relevant skills, experience, market research, Timing: Counter immediately after offer received (don't accept first offer, then negotiation much harder). Leverage: (1) Multiple offers (strongest), (2) Unique skills, (3) Market rate (prove salary too low), (4) Your experience/background. Red flags: (1) Firm offers exist (some companies non-negotiable first offer), (2) Research salary bands (some government contracts have set rates). Military advantage: Military experience = valuable (employers pay premium for veteran/retiree hiring), Clearance, leadership, discipline = negotiating points. Recommendation: Always negotiate (unless firm fixed offer); counter-offer typical professional practice (non-offensive). Expected outcome: +5-10% counter accepted (realistic expectation).",
+    "category": "tax",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Does my civilian job benefit package reduce my military pension?",
+    "target_text": "No. Civilian job benefits and military pension: Complete independence: (1) Military pension = unaffected by civilian job benefits, (2) Civilian 401k = separate retirement savings (not related to military pension), (3) Civilian health insurance = separate from TRICARE (you choose which to use), (4) No offset/reduction rules (unlike federal pension offset rules). Strategic approach: (1) Use TRICARE (military, cheaper), (2) Decline civilian health insurance (save cost), (3) Enroll civilian 401k (separate retirement savings), (4) Combine assets at retirement. Example: Military pension $2,500 + civilian 401k savings $1,500/month = $4,000 retirement income (both active), Benefit: Stack multiple retirement accounts (better financial security). Federal distinction: Federal civilian pension + military pension = different offset rules (rare situation), But military retirement + civilian employment = no offset. Recommendation: Use civilian employment for additional 401k savings (pension untouched), stacking retirement assets.",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do union positions affect my military retirement and benefits?",
+    "target_text": "Union job + military retirement: Military benefits: Unchanged (union status irrelevant), TRICARE: Continues, Military pension: Received fully (no offset). Union implications: (1) Collective bargaining (wages negotiated collectively), (2) Job protection (seniority rules, grievance protections), (3) Pension (union may offer pension OR 401k match), (4) Benefits (health insurance through union, often better than non-union), (5) Dues (monthly union fee ~$20-50), Advantage: Union job = job security, pension/benefits often superior, Disadvantage: Less individual salary negotiation (union scale applies), Seniority system (advancement based on tenure, not merit), Military advantage: Veteran hiring preference in unions (seniority may allow preferred hiring), Recommendation: Union job excellent for military retirees (job security + benefits), though salary may be lower than equivalent non-union position.",
+    "category": "pension",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I be rehired by the military within so many days after retirement?",
+    "target_text": "Rehiring policy: Time restriction rules vary by service branch: Cool-down period: Typically 6 months to 1 year post-retirement before rehiring, Civilian government: May be shorter (~90 days sometimes), Active duty: Cannot immediately rejoin without break-in-service. Pension impact: (1) If rehired within cool-down = may affect pension (complex rules), (2) Military retirement pay = continue receiving (even if rehired), (3) Double payment risk (both retirement + active duty pay = unusual scenario), Mechanics: (1) Verify cool-down period with your service branch HR, (2) If planning military return, wait required time, (3) Civilian government jobs = can often start sooner. Recommendation: If considering military rehiring, understand break-in-service rules (typically 6 months), Pension continues regardless. Ask HR during out-processing if uncertain.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How does a government civilian position affect my military pension?",
+    "target_text": "Government civilian job + military pension: Military pension: NOT affected by federal civilian work, TRICARE: Continues, Pension offset: Federal 'Government Pension Offset' (GPO) applies ONLY if: (1) Receiving federal civilian pension, (2) Also eligible for Social Security spousal/survivor benefits (rare military scenario), (3) Reduces SS benefit only (not military pension). For most military retirees: NO GPO impact (not receiving federal civilian pension). Federal retirement: If military + federal civilian career: (1) Two separate pensions possible, (2) 'Windfall Elimination Provision' (WEP) may apply to Social Security (different benefit), (3) Complex coordination (needs professional tax advice). Example: Military $2,500 + Federal civilian $1,500 = $4,000 total pension possible (stacking), No direct offset between them. Recommendation: Military retired + federal civilian job = possible but coordinate through OPM (Federal Retirement section) for accuracy.",
+    "category": "integration",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "How do I create a comprehensive post-military financial plan?",
+    "target_text": "Financial planning steps: (1) Assessment phase: (a) Calculate retirement income (military pension, SBP cost), (b) Identify assets (home, savings, TSP, 401k), (c) Project expenses (housing, food, healthcare, lifestyle), (d) Liabilities (mortgage, car loans, credit cards), (e) Insurance needs (life, disability, health), (2) Goal setting: (a) Short-term (0-3 years: housing, job search, education), (b) Mid-term (3-10 years: home equity, college savings), (c) Long-term (10+ years: retirement sustainability, Legacy planning), (3) Income planning: (a) Military pension stream, (b) Civilian employment target, (c) Spouse income potential, (d) Social Security projection (age 67 typical), (e) VA disability potential, (4) Tax planning: (a) Understand federal/state tax obligations, (b) Optimize W-4 withholding, (c) Leverage military tax breaks (if state offers), (5) Investment strategy: (a) TSP continued (low-cost long-term), (b) 401k (civilian job), (c) IRA (traditional/Roth balance), (d) Diversify investments (not all stocks), (6) Risk management: (a) Emergency fund (6 months expenses), (b) Insurance review (life, health, disability, car, home), (c) Estate planning (wills, POA, beneficiaries), (7) Professional guidance: (a) Fee-only financial advisor (recommended), (b) CPA for taxes, (c) Estate attorney, Implementation: Prioritize (housing, healthcare, debt), build over next 2-3 years, Review annually. Recommendation: Create plan within 6 months of separation (not urgently, but structured).",
+    "category": "financial_planning",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  },
+  {
+    "input_text": "Can I get business loan assistance as a military retiree?",
+    "target_text": "Military retiree business loans: Federal programs: (1) SBA (Small Business Administration): Veteran loans, Preferential rates for service-disabled, Loan guarantees (easier approval), (2) VA (Veteran Affairs): Business training programs, Limited direct lending (Service-Disabled Veteran-Owned Business focus), (3) State/local: Vary by location, Some state programs favor veteran entrepreneurs. Conditions: (1) Veteran status = may qualify (military retiree = veteran), (2) Service-disabled preferred (better rates/terms), (3) Business plan = required (professional documentation), (4) Personal credit = may be reviewed, (5) Collateral/guarantees = required. Advantages: Veteran preference (easier SBA approval), Lower rates (government support), Mentoring programs (SBA provides guidance). Process: (1) Research SBA veteran programs (sba.gov/military), (2) Develop business plan (professional + financial projections), (3) Consult SBA advisor (free mentoring), (4) Apply for SBA loan (bank process), Timeline: 4-8 weeks typical for approval. Recommendation: Veteran status = advantage (SBA programs accessible); develop strong business plan first.",
+    "category": "other",
+    "topic": "comprehensive_real_qa",
+    "source": "Domain_Knowledge_Mega"
+  }
+]

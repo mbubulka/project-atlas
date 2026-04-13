@@ -1,0 +1,2816 @@
+{
+  "metadata": {
+    "generation_timestamp": "2026-04-09T10:00:05.235331",
+    "test_suite_file": "d:\\Project Atlas\\tests\\static_test_suite_with_questions_FRESH.json",
+    "total_test_scenarios": 200
+  },
+  "test_results": [
+    {
+      "scenario_id": "scenario_001_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1048.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_002_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1621.57
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_003_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1751.75
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_004_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 889.91
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_005_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1011.75
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_006_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1712.09
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_007_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1840.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_008_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2141.28
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_009_O-5_20260409",
+      "paygrade": "O-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2240.39
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_010_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 619.92
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_011_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 259.82
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_012_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1451.57
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_013_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 947.62
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_014_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": -38.05
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_015_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 957.07
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_016_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1224.55
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_017_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1306.25
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_018_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1695.85
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_019_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3029.78
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_020_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 470.11
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_021_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1335.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_022_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1330.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_023_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 451.69
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_024_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 733.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_025_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 20.66
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_026_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2728.88
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_027_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2310.76
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_028_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1615.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_029_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 780.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_030_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1243.55
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_031_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1634.33
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_032_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1588.4
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_033_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1448.09
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_034_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2045.78
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_035_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1611.77
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_036_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 855.95
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_037_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1173.25
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_038_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2079.7
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_039_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 827.59
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_040_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1362.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_041_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1609.51
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_042_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1772.98
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_043_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 335.35
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_044_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1049.52
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_045_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2084.17
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_046_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 252.7
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_047_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1025.04
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_048_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1963.37
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_049_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 879.84
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_050_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2359.09
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_051_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 974.7
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_052_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 746.37
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_053_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1135.09
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_054_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1385.1
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_055_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1207.45
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_056_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 762.61
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_057_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": -38.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_058_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1924.28
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_059_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1316.75
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_060_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 556.7
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_061_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1304.16
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_062_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 753.59
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_063_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1061.15
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_064_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1616.85
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_065_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 851.68
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_066_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 760.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_067_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3084.18
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_068_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2233.08
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_069_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2049.73
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_070_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1430.7
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_071_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1298.51
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_072_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1407.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_073_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 976.84
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_074_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 637.64
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_075_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1409.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_076_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 65.79
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_077_O-5_20260409",
+      "paygrade": "O-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2665.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_078_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1400.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_079_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 667.85
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_080_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1678.55
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_081_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 868.99
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_082_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1159.71
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_083_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1938.38
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_084_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2416.08
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_085_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1210.21
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_086_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1601.03
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_087_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1661.5
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_088_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 943.11
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_089_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 52.25
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_090_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 848.35
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_091_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1683.16
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_092_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 996.82
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_093_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3151.21
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_094_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 811.91
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_095_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 894.38
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_096_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1706.01
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_097_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 754.16
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_098_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1661.55
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_099_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 897.13
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_100_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1401.42
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_101_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 474.71
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_102_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3129.02
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_103_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2122.42
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_104_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 450.39
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_105_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 820.74
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_106_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1927.04
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_107_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 922.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_108_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 741.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_109_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1520.71
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_110_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2251.63
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_111_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1085.47
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_112_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1818.35
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_113_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 894.38
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_114_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 434.2
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_115_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1714.79
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_116_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2249.48
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_117_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 622.97
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_118_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 628.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_119_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1625.4
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_120_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1217.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_121_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1340.21
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_122_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1604.55
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_123_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2254.88
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_124_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2086.92
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_125_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3075.73
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_126_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 807.5
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_127_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 817.66
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_128_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1326.94
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_129_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 718.39
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_130_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1647.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_131_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1348.05
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_132_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2023.94
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_133_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1686.77
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_134_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2504.4
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_135_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 954.32
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_136_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1564.57
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_137_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1082.05
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_138_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 896.99
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_139_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 623.2
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_140_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 982.82
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_141_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1220.75
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_142_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1104.85
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_143_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1166.03
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_144_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1342.77
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_145_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 418.95
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_146_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1373.01
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_147_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 697.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_148_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1833.5
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_149_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2951.75
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_150_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1830.65
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_151_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1763.48
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_152_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2866.16
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_153_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1000.87
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_154_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2059.47
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_155_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1351.04
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_156_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2275.03
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_157_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1039.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_158_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1309.53
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_159_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 164.35
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_160_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1139.05
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_161_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3121.71
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_162_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2357.95
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_163_O-5_20260409",
+      "paygrade": "O-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2460.28
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_164_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2475.24
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_165_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1318.56
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_166_O-6_20260409",
+      "paygrade": "O-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 3015.97
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_167_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 345.0
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_168_O-3_20260409",
+      "paygrade": "O-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1819.44
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_169_E-8_20260409",
+      "paygrade": "E-8",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1838.21
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_170_O-5_20260409",
+      "paygrade": "O-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2716.13
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_171_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 741.86
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_172_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1343.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_173_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1100.1
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_174_O-5_20260409",
+      "paygrade": "O-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2838.53
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_175_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1375.41
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_176_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 797.86
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_177_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1325.77
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_178_E-7_20260409",
+      "paygrade": "E-7",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1256.33
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_179_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 910.1
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_180_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 712.98
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_181_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 538.65
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_182_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2388.93
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_183_E-1_20260409",
+      "paygrade": "E-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 807.5
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_184_O-1_20260409",
+      "paygrade": "O-1",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1147.08
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_185_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1574.86
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_186_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1371.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_187_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2092.39
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_188_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1639.84
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_189_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 799.9
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_190_E-6_20260409",
+      "paygrade": "E-6",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 871.17
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_191_E-2_20260409",
+      "paygrade": "E-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 799.61
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_192_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1375.07
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_193_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2187.8
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_194_E-9_20260409",
+      "paygrade": "E-9",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2506.18
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_195_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 762.85
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_196_E-4_20260409",
+      "paygrade": "E-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 536.13
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_197_O-2_20260409",
+      "paygrade": "O-2",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1549.3
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_198_E-5_20260409",
+      "paygrade": "E-5",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 1068.22
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_199_E-3_20260409",
+      "paygrade": "E-3",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 234.65
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    },
+    {
+      "scenario_id": "scenario_200_O-4_20260409",
+      "paygrade": "O-4",
+      "tax_calculation": {
+        "status": "passed",
+        "net_income_monthly": 2482.93
+      },
+      "ai_analysis": {
+        "total_questions": 7,
+        "successful_questions": 7,
+        "success_rate": 1.0
+      },
+      "overall_status": "passed"
+    }
+  ],
+  "summary": {
+    "total_tests": 200,
+    "tests_passed": 200,
+    "tests_failed": 0,
+    "total_questions_analyzed": 1400,
+    "successful_questions": 1400
+  }
+}

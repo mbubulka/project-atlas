@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-04-04T08:18:14.819342",
+  "hyperparameters": {
+    "retrieval_k": 1,
+    "similarity_threshold": 0.7,
+    "weighting_strategy": "weighted-sum",
+    "weak_category_amplifier": 3.0,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "generator_model": "google/flan-t5-base",
+    "device": "cpu",
+    "max_generation_length": 256,
+    "batch_size": 32
+  },
+  "deployment_config_stages": {
+    "phase": "Milestone E Phase 1 - Complete",
+    "kb_size": 561,
+    "performance_slas": {
+      "retrieval_latency_ms": 15.25568962097168,
+      "reranking_latency_ms": 12.390375137329102,
+      "generation_latency_ms": 1498.1343150138855,
+      "e2e_latency_ms": 1525.7803797721863
+    },
+    "weak_category_amplifier": 3.0,
+    "ready_for_production": true,
+    "completion_rate": 92
+  }
+}

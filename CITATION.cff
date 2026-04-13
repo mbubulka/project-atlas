@@ -1,0 +1,117 @@
+cff-version: 1.2.0
+title: "Project Atlas: Military Financial Transition Simulator with AI-Powered Analysis"
+authors:
+  - family-names: Bubulka
+    given-names: Michael
+    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional: Add ORCID if available
+    affiliation: "Independent Researcher"
+
+date-released: "2026-04-13"
+version: "1.0.0"
+doi: "10.0000/zenodo.0000000"  # Optional: Add once Zenodo deposit created
+repository-code: "https://github.com/YOUR-USERNAME/project-atlas"
+repository: "https://github.com/YOUR-USERNAME/project-atlas"
+
+type: software
+license: "MIT"
+
+abstract: |
+  Project Atlas is a local-first financial simulator designed to support military
+  service members during career transition planning. Using Retrieval-Augmented
+  Generation (RAG) with FLAN-T5 and fairness-aware cross-validation, it enables
+  evidence-based financial decision-making for retirement, healthcare, and
+  employment scenarios. The system includes comprehensive validation against
+  authoritative government sources (DoD, VA, IRS) and explicit bias mitigation
+  for underrepresented military populations.
+
+documentation: "https://github.com/YOUR-USERNAME/project-atlas/blob/main/README.md"
+
+keywords:
+  - "military transition"
+  - "financial planning"
+  - "AI fairness"
+  - "retrieval-augmented generation"
+  - "retirement calculator"
+  - "healthcare cost modeling"
+  - "career transition"
+
+identifiers:
+  - type: "url"
+    value: "https://github.com/YOUR-USERNAME/project-atlas"
+    description: "GitHub repository"
+
+funding:
+  - funder: "Academic Research"
+    statement: "This work was developed as independent academic research."
+
+references:
+  - authors:
+      - family-names: Bubulka
+        given-names: Michael
+    title: "Project Atlas: Milestone E - RAG Optimization & Production Hardening"
+    type: "technical-report"
+    year: 2026
+    month: 4
+    notes: |
+      Final milestone report documenting RAG pipeline optimization,
+      fairness validation across military populations, and production
+      deployment readiness for military financial transition support.
+
+  - authors:
+      - family-names: Bubulka
+        given-names: Michael
+    title: "Project Atlas: Milestone D - Ethical AI Reflection and Governance"
+    type: "technical-report"
+    year: 2026
+    month: 2
+    notes: |
+      Governance framework, bias mitigation strategies, regulatory compliance
+      analysis (HIPAA, FINRA), and stakeholder impact assessment.
+
+  - authors:
+      - family-names: Bubulka
+        given-names: Michael
+    title: "Project Atlas: Milestone C - Bias Audit and Data Amplification"
+    type: "technical-report"
+    year: 2025
+    month: 12
+    notes: |
+      Systematic bias detection using LIME/SHAP, amplification of weak
+      categories (housing, benefits), and validation of fairness improvements.
+
+  - authors:
+      - family-names: Bubulka
+        given-names: Michael
+    title: "Project Atlas: Milestone B - Data Science Baseline and Cross-Validation"
+    type: "technical-report"
+    year: 2025
+    month: 10
+    notes: |
+      3-fold cross-validation framework, ROUGE-L baseline metrics,
+      explainability infrastructure (LIME/SHAP), synthetic data generation.
+
+  - authors:
+      - family-names: Bubulka
+        given-names: Michael
+    title: "Project Atlas: Milestone A - Financial Calculator Engine and UI"
+    type: "technical-report"
+    year: 2025
+    month: 8
+    notes: |
+      Core financial calculations, Tricare/VA/ACA healthcare modeling,
+      military retirement rules, tax-aware projections, Streamlit dashboard.
+
+message: |
+  If you use Project Atlas in your research, please cite it as follows:
+  
+  @software{bubulka2026_projectatlas,
+    author = {Bubulka, Michael},
+    title = {Project Atlas: Military Financial Transition Simulator with AI-Powered Analysis},
+    year = {2026},
+    url = {https://github.com/YOUR-USERNAME/project-atlas},
+    version = {1.0.0},
+    license = {MIT}
+  }
+  
+  Please also cite the relevant milestone report(s) for the specific features
+  or analysis methods you build upon.

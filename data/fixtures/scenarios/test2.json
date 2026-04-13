@@ -1,0 +1,42 @@
+{
+  "user_rank": "O-5",
+  "user_years_of_service": 29,
+  "user_career_field": "SWO",
+  "user_separation_date": "2026-06-01",
+  "user_marital_status": "Married",
+  "user_dependents": 1,
+  "user_service_branch": "Navy",
+  "military_pension": 8600,
+  "va_rating": 60,
+  "va_dependent_status_key": "spouse+1child",
+  "use_calculated_va": false,
+  "sbp_checkbox": true,
+  "job_start_month": 6,
+  "current_income_method": "Take-Home Monthly",
+  "current_takehome": 14264,
+  "other_deductions": 192,
+  "state": "VA - Virginia",
+  "savings_available": 5000,
+  "gi_months_used": 36,
+  "ruskin_approved": true,
+  "ruskin_additional_months": 12,
+  "salary_education": "Master Degree",
+  "salary_prediction": {
+    "rank": "O5",
+    "yos": 29,
+    "career_field": "Data Analyst",
+    "base_salary": 105579.36085533307,
+    "adjusted_salary": 146865.11412420255,
+    "lower_bound": 135899.13189701765,
+    "upper_bound": 157831.0963513874,
+    "location": "High COLA (+15%): CA, NY, DC",
+    "education": "Master Degree",
+    "certifications": [
+      "Security Clearance (TS/SCI)",
+      "Project Management (PMP, CAPM)"
+    ],
+    "cola_factor": 1.15,
+    "education_factor": 1.12,
+    "cert_boost": 1.08
+  }
+}
