@@ -17,12 +17,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-
-    - name: Set up Git LFS
-      uses: nscooling/setup-git-lfs@v1
-
-    - name: Git LFS Pull
-      run: git lfs pull
+      with:
+        lfs: true
 
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v4
@@ -74,12 +70,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-
-    - name: Set up Git LFS
-      uses: nscooling/setup-git-lfs@v1
-
-    - name: Git LFS Pull
-      run: git lfs pull
+      with:
+        lfs: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -101,7 +93,7 @@ jobs:
         pytest tests/performance/ -v --tb=short --timeout=60 > performance_report.txt 2>&1 || true
 
     - name: Upload benchmark report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: performance-report
         path: performance_report.txt
@@ -114,12 +106,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-
-    - name: Set up Git LFS
-      uses: nscooling/setup-git-lfs@v1
-
-    - name: Git LFS Pull
-      run: git lfs pull
+      with:
+        lfs: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -137,7 +125,7 @@ jobs:
         pytest tests/ --cov=src --cov-report=html --tb=short
 
     - name: Upload HTML coverage report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: coverage-report
         path: htmlcov/
