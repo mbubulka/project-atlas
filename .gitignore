@@ -1,0 +1,198 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs
+*.log
+output.log
+startup_log.txt
+diagnostic_output.txt
+test_output.txt
+test_results_*.txt
+test_results_new_calcs.txt
+test_results_full.txt
+
+# Pre-commit
+.pre-commit-config.yaml
+
+# Temporary/Debug Files
+debug_extract.py
+debug_extract2.py
+debug_test.py
+analyze.py
+analyze_test_suite.py
+quick_test_*.py
+quick_validate.py
+test_import.py
+test_display_fix.py
+test_multipart_fix.py
+test_50_scenarios.py
+test_diagnostic.py
+test_parsing_logic.py
+test_profiles_simple.py
+test_rag_live_scenario.py
+test_rag_loading.py
+test_sample_budget.py
+test_tax_calculation.py
+test_tax_calc_only.py
+test_va_disability_fix.py
+test_flan_deployment.py
+validate_*.py
+verify_*.py
+simulate_ai_tests.py
+check_*.py
+rerun_tests_*.py
+rebuild_faiss_*.py
+run_200_tests_final.py
+run_ai_tests.py
+run_quick_test.py
+run_tests.py
+generate_fresh_test_suite.py
+final_verification.py
+end_to_end_test.py
+
+# Archive & Documentation (not needed in repo)
+_archive/
+*.md~
+ARCHIVE_*
+ARCHIVE*.md
+*_ARCHIVE_*
+
+# Configuration/Status Files (project-specific, not for repo)
+conftest.py
+MASTER_SETUP.md
+startup_log.txt
+.benchmarks/
+.coverage
+
+# Junie folder (if legacy/experimental)
+Junie/
+
+# Documentation status/reports (transient)
+COMPLETION_*.md
+COMPLETION_CERTIFICATE.md
+COMPLETION_CHECKLIST.md
+COMPLETION_PLAN.md
+COMPLETION_VERIFICATION.md
+TEST_EXECUTION_GUIDE.md
+E2E_MANUAL_TESTING_GUIDE.md
+TEST_SUITE_AUDIT_REPORT.md
+TEST_VERIFICATION_RESULTS.md
+STATIC_TEST_SUITE_GUIDE.md
+TASK_COMPLETION_RECORD.md
+FINAL_STATUS_REPORT.md
+AI_TESTING_*.md
+COMPLETE_AI_TEST_SUMMARY.md
+PHASE_3_TEST_STATUS.md
+*_SUMMARY.md
+*_COMPLETION_SUMMARY.md
+*_STATUS.md
+*_FINAL.md
+MILESTONE_E_*.md
+DEPLOYMENT_*.md
+PRODUCTION_*.md
+IMPLEMENTATION_*.md
+FIXES_*.md
+*_VERIFICATION_*.md
+*_REPORT.md
+UPDATED_CLAIMS.md
+
+# Large model files (if cached, use Git LFS or download from releases)
+models/**/*.bin
+models/**/*.pt
+models/**/*.ckpt
+
+# Sample/Test Data (keep only essential sample_budgets/, scenarios/)
+profiles/
+**/*test_data*
+**/*sample*_old*
+**/*temp*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Status (transient)
+.git/
+.gitignore
+
+# Pip
+requirements-*.txt
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Mac OS
+.AppleDouble
+.LSOverride
+
+# Environment
+.env
+.env.local
+secrets.json
+
+# IDE specific
+*.sublime-project
+*.sublime-workspace
+
+# Exclude node_modules if any frontend
+node_modules/
+
+# Exclude any generated reports
+reports/
+results/
+
+# Keep ONLY essential markdown files
+# Everything else in docs/ should be committed
+# Exclude transient status/plan docs unless critical
+README_*.md
+*_MASTER_*.md
+*_MASTER.md
