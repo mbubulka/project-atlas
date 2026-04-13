@@ -90,7 +90,7 @@ User Question: "What if my job search takes 9 months?"
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/project-atlas.git
+git clone https://github.com/mbubulka/project-atlas.git
 cd project-atlas
 
 # 2. Create virtual environment
@@ -407,7 +407,7 @@ If you use Project Atlas in research or publications, please cite:
   author = {Bubulka, Michael},
   title = {Project Atlas: Military Financial Transition Simulator with AI-Powered Analysis},
   year = {2026},
-  url = {https://github.com/YOUR-USERNAME/project-atlas},
+  url = {https://github.com/mbubulka/project-atlas},
   version = {1.0.0},
   license = {MIT}
 }
@@ -416,7 +416,7 @@ If you use Project Atlas in research or publications, please cite:
 **APA:**
 ```
 Bubulka, M. (2026). Project Atlas: Military financial transition simulator with AI-powered 
-analysis (Version 1.0.0) [Computer software]. https://github.com/YOUR-USERNAME/project-atlas
+analysis (Version 1.0.0) [Computer software]. https://github.com/mbubulka/project-atlas
 ```
 
 **More formats:** [CITATION.cff](CITATION.cff)
