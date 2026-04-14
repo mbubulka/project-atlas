@@ -1,0 +1,104 @@
+{
+  "scenarios": [
+    {
+      "scenario_name": "scenario_O-5_20260323_131615",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_O-5_20260323_131615.json",
+      "saved_at": "2026-03-23T13:16:15.171811",
+      "rank": "O-5",
+      "yos": 5,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_O-5_20260323_131714",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_O-5_20260323_131714.json",
+      "saved_at": "2026-03-23T13:17:14.497308",
+      "rank": "O-5",
+      "yos": 5,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_O-5_20260323_132129",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_O-5_20260323_132129.json",
+      "saved_at": "2026-03-23T13:21:29.227310",
+      "rank": "O-5",
+      "yos": 10,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_E-4_20260323_132406",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_E-4_20260323_132406.json",
+      "saved_at": "2026-03-23T13:24:06.741278",
+      "rank": "E-4",
+      "yos": 10,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_E-5_20260323_164113",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_E-5_20260323_164113.json",
+      "saved_at": "2026-03-23T16:41:13.202032",
+      "rank": "E-5",
+      "yos": 10,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_E-6_20260323_164240",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_E-6_20260323_164240.json",
+      "saved_at": "2026-03-23T16:42:40.289280",
+      "rank": "E-6",
+      "yos": 20,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_E-8_20260323_164429",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_E-8_20260323_164429.json",
+      "saved_at": "2026-03-23T16:44:29.917819",
+      "rank": "E-8",
+      "yos": 24,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_O-1_20260323_164557",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_O-1_20260323_164557.json",
+      "saved_at": "2026-03-23T16:45:57.070857",
+      "rank": "O-1",
+      "yos": 20,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    },
+    {
+      "scenario_name": "scenario_O-4_20260323_164741",
+      "filepath": "D:\\personal2\\ProjectAtlas\\src\\utils\\..\\..\\scenarios\\scenario_O-4_20260323_164741.json",
+      "saved_at": "2026-03-23T16:47:41.050685",
+      "rank": "O-4",
+      "yos": 20,
+      "state": "VA",
+      "annual_income_civilian": 0,
+      "annual_income_military": 0,
+      "retirement_runway_months": 0
+    }
+  ],
+  "last_updated": "2026-03-23T16:47:41.051133"
+}

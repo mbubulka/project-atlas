@@ -1,0 +1,21 @@
+{
+  "model": "flan_t5_fold1_final_trained.pt (Milestone C)",
+  "total_scenarios": 240,
+  "passed": 0,
+  "failed": 240,
+  "accuracy": 0.0,
+  "by_intent": {
+    "job_search_timeline": {
+      "passed": 0,
+      "failed": 142
+    },
+    "savings_sufficiency": {
+      "passed": 0,
+      "failed": 54
+    },
+    "savings_runway": {
+      "passed": 0,
+      "failed": 44
+    }
+  }
+}

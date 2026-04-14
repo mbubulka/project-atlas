@@ -1,0 +1,18 @@
+{
+  "user_rank": "O-1",
+  "user_years_of_service": 20,
+  "user_career_field": "Operations Research",
+  "user_separation_date": "2026-06-01",
+  "user_marital_status": "Married",
+  "user_dependents": 2,
+  "user_service_branch": "Navy",
+  "user_locality": "Arlington",
+  "user_state": "VA",
+  "military_pension_gross": 6050,
+  "current_military_takehome_monthly": 11000,
+  "medical_plan": "Tricare Prime",
+  "vision_plan": "Tricare Vision",
+  "dental_plan": "Tricare Dental",
+  "_saved_at": "2026-03-23T16:45:57.070132",
+  "_scenario_name": "scenario_O-1_20260323_164557"
+}
