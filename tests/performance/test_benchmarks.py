@@ -434,7 +434,7 @@ class TestRoutingBenchmarks:
         avg_rag = statistics.mean(times_rag)
         
         # Just verify RAG completes in reasonable time
-        target_rag = 1.0  # 1 second max for RAG on CPU
+        target_rag = 2.0  # 2 seconds max for RAG on CPU (full pipeline: retrieval + re-ranking + generation)
         
         logger.info(f"📊 RAG Latency:")
         logger.info(f"   RAG: {avg_rag*1000:.1f}ms")

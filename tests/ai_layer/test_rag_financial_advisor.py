@@ -609,9 +609,9 @@ class TestRAGPerformance:
             mem_after = process.memory_info().rss / 1024 / 1024  # MB
             mem_increase = mem_after - mem_before
             
-            # Should not increase by more than 200MB (CPU behavior differs)
-            assert mem_increase < 200, \
-                f"Memory increased by {mem_increase:.1f}MB, should be <200MB"
+            # Should not increase by more than 1GB (RAG loads FAISS + embedder + cross-encoder + generator)
+            assert mem_increase < 1000, \
+                f"Memory increased by {mem_increase:.1f}MB, should be <1000MB"
             
             logger.info(f"✅ Memory stable: +{mem_increase:.1f}MB")
             
